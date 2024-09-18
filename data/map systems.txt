@@ -15,8 +15,6 @@ galaxy "Milky Way"
 	pos 112 22
 	sprite "ui/milky way"
 
-galaxy "label arachi"
-	pos -750 615
 
 galaxy "label umbral"
 	pos 1150 -500
@@ -7135,8 +7133,6 @@ system Delia
 	trade Medical 698
 	trade Metal 397
 	trade Plastic 490
-	fleet Ka'het 3400
-	fleet "Ka'het Aggressive" 10300
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -7709,8 +7705,6 @@ system Dixere
 	trade Medical 815
 	trade Metal 349
 	trade Plastic 479
-	fleet Ka'het 2760
-	fleet "Ka'het Aggressive" 10400
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -9820,8 +9814,6 @@ system Esix
 	trade Medical 520
 	trade Metal 357
 	trade Plastic 358
-	fleet Ka'het 3600
-	fleet "Ka'het Aggressive" 10500
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -10476,8 +10468,6 @@ system Fearis
 	trade Medical 874
 	trade Metal 224
 	trade Plastic 339
-	fleet Ka'het 2900
-	fleet "Ka'het Aggressive" 9100
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -10552,8 +10542,6 @@ system Feraticus
 	trade Medical 875
 	trade Metal 241
 	trade Plastic 405
-	fleet Ka'het 3150
-	fleet "Ka'het Aggressive" 8500
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -10598,8 +10586,6 @@ system Fereti
 	trade Medical 759
 	trade Metal 354
 	trade Plastic 426
-	fleet "Ka'het Core" 2900
-	fleet "Builders Drone" 2050
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -11869,8 +11855,6 @@ system Giribea
 	trade Medical 804
 	trade Metal 325
 	trade Plastic 488
-	fleet "Ka'het Core" 2850
-	fleet "Builders Drone" 2100
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -16858,8 +16842,6 @@ system Lire
 	trade Medical 816
 	trade Metal 307
 	trade Plastic 411
-	fleet Ka'het 2850
-	fleet "Ka'het Aggressive" 9300
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -19937,8 +19919,6 @@ system Nona
 	trade Medical 587
 	trade Metal 340
 	trade Plastic 379
-	fleet Ka'het 3700
-	fleet "Ka'het Aggressive" 11400
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -20644,8 +20624,6 @@ system Paeli
 	trade Medical 328
 	trade Metal 466
 	trade Plastic 462
-	fleet Ka'het 3500
-	fleet "Ka'het Aggressive" 9800
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -21841,8 +21819,6 @@ system Polerius
 	trade Medical 361
 	trade Metal 463
 	trade Plastic 503
-	fleet Ka'het 2900
-	fleet "Ka'het Aggressive" 9400
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -22684,8 +22660,6 @@ system Queri
 	trade Medical 678
 	trade Metal 175
 	trade Plastic 329
-	fleet Ka'het 4000
-	fleet "Ka'het Aggressive" 11000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -23222,8 +23196,6 @@ system Relifer
 	trade Medical 883
 	trade Metal 219
 	trade Plastic 355
-	fleet Ka'het 2750
-	fleet "Ka'het Aggressive" 8900
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -23383,8 +23355,6 @@ system Ritilas
 	trade Medical 721
 	trade Metal 138
 	trade Plastic 363
-	fleet Ka'het 2700
-	fleet "Ka'het Aggressive" 9600
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
