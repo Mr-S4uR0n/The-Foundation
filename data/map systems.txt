@@ -15,7 +15,6 @@ galaxy "Milky Way"
 	pos 112 22
 	sprite "ui/milky way"
 
-
 galaxy "label umbral"
 	pos 1150 -500
 
@@ -7349,7 +7348,7 @@ system "Delta Velorum"
 
 system Deneb
 	pos -348 225
-	government Pug
+	government Republic
 	arrival 625
 	habitable 625
 	belt 1890
@@ -7373,8 +7372,6 @@ system Deneb
 	trade Medical 641
 	trade Metal 404
 	trade Plastic 336
-	fleet "Small Pug" 400
-	fleet "Large Pug" 1000
 	object
 		sprite star/g5
 		period 10
@@ -20410,8 +20407,6 @@ system "Over the Rainbow"
 	asteroids "small metal" 5 2.9887
 	asteroids "medium metal" 11 3.6556
 	asteroids "large metal" 7 2.0007
-	object "Pug Wormhole"
-		sprite planet/wormhole
 	object
 		sprite star/g0
 		distance 544.9
