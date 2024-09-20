@@ -14753,7 +14753,7 @@ system Kaliptari
 system Kanguwa
 	pos 995.47 -329.975
 	government Uninhabited
-	attributes "neutron" "notable star" "rulei"
+	attributes "neutron" "notable star" 
 	music "ambient/rulei space"
 	arrival 500
 	habitable 100
@@ -20988,11 +20988,6 @@ system Peragenor
 	trade Medical 512
 	trade Metal 271
 	trade Plastic 373
-	fleet "Large Remnant" 10000
-	fleet "Small Remnant" 7000
-	fleet "Remnant Transport" 7000
-	fleet "Korath Ember Waste Raid" 40000
-	fleet "Korath Rescue" 90000
 	fleet Embershades 8000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
@@ -21109,11 +21104,6 @@ system Perfica
 	trade Medical 546
 	trade Metal 338
 	trade Plastic 368
-	fleet "Large Remnant" 10000
-	fleet "Small Remnant" 7500
-	fleet "Remnant Transport" 7500
-	fleet "Korath Ember Waste Raid" 30000
-	fleet "Korath Rescue" 45000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -24290,9 +24280,6 @@ system Segesta
 	trade Medical 664
 	trade Metal 406
 	trade Plastic 295
-	fleet "Small Remnant" 40000
-	fleet "Large Remnant" 40000
-	fleet Embershades 15000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -25528,10 +25515,6 @@ system Stercutus
 	trade Medical 536
 	trade Metal 299
 	trade Plastic 294
-	fleet "Small Remnant" 20000
-	fleet "Large Remnant" 20000
-	fleet "Remnant Transport" 40000
-	fleet Embershades 8000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
