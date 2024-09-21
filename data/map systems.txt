@@ -52,9 +52,6 @@ galaxy "label rim"
 	pos -778 265
 	sprite label/rim
 
-galaxy "label saryds"
-	pos -1080 678
-
 galaxy "label south"
 	pos -566 501
 	sprite label/south
