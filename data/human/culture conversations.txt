@@ -11,10 +11,10 @@
 # You should have received a copy of the GNU General Public License along with
 # this program. If not, see <https://www.gnu.org/licenses/>.
 
-mission "Sad Gamblers - Republic"
+mission "Sad Gamblers - Imperium"
 	minor
 	source
-		government "Republic"
+		government "Imperium"
 		attributes "near earth"
 		not attributes "station"
 	to offer
@@ -58,7 +58,7 @@ mission "Foiled Kidnapping Witnessed"
 mission "Gift Store Interaction"
 	minor
 	source
-		government "Republic"
+		government "Imperium"
 		attributes "deep"
 		not attributes "station"
 	to offer
@@ -134,7 +134,7 @@ mission "New Holland Foibles"
 mission "Trash Fire Crops"
 	minor
 	source
-		government "Republic"
+		government "Imperium"
 		attributes "dirt belt"
 		attributes "farming"
 		not attributes "station"
@@ -159,7 +159,7 @@ mission "Trash Fire Crops"
 mission "Worker's Occasion"
 	minor
 	source
-		government "Republic"
+		government "Imperium"
 		attributes "dirt belt"
 		not attributes "station"
 	to offer
@@ -188,7 +188,7 @@ mission "Worker's Occasion"
 mission "Paradise Cleaner Incident"
 	minor
 	source
-		government "Republic"
+		government "Imperium"
 		attributes "paradise"
 		not attributes "station"
 	to offer
@@ -477,7 +477,7 @@ mission "Masquerade Hanging"
 mission "News Reporter - Paradise"
 	minor
 	source
-		government "Republic"
+		government "Imperium"
 		attributes "paradise"
 		not attributes "station"
 	to offer
@@ -533,7 +533,7 @@ mission "News Reporter - Paradise"
 mission "Scientists at the Pub after a Conference"
 	minor
 	source
-		government "Republic"
+		government "Imperium"
 		attributes "urban"
 		not attributes "station"
 	to offer
@@ -572,7 +572,7 @@ mission "Scientists at the Pub after a Conference"
 			`	A group seem to be discussing some other colleagues in the field who are, presumably, not present this evening. "Singh and Esterhazy are such arrogant jerks. Their work is okay, I guess, but not enough to justify their wannabe rockstar personalities!"`
 			`	"Sure, but they aren't just arrogant jerks, they're charismatic arrogant jerks. Charisma attracts good grad students to their lab, who produce good papers, who they put their name on. It's a positive feedback loop."`
 			``
-			`	Grant applications seem to be a common subject. "The Republic Medical Research Agency said my work is too theoretical, but the University of Chiron Department of Microbiology says it's too applied!"`
+			`	Grant applications seem to be a common subject. "The Imperium Medical Research Agency said my work is too theoretical, but the University of Chiron Department of Microbiology says it's too applied!"`
 			`	"That's a conundrum, alright. Maybe you could find some funding from industry? The Syndicate might be interested in your work."`
 			`	"Yeah, but I'm not sure yet if I'm willing to give up my academic freedom."`
 			choice

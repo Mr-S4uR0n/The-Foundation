@@ -224,7 +224,7 @@ outfit "Outfit Scanner"
 	"outfit space" -2
 	"outfit scan power" 25
 	"outfit scan efficiency" 15
-	description "This scanner allows you to determine what outfits are installed in the ship you are currently targeting, if you are willing to risk flying close enough to it to get a reading! The Republic Navy uses these scanners to detect when ships are equipped with illegal weaponry. Installing more than one increases the scan range and speed."
+	description "This scanner allows you to determine what outfits are installed in the ship you are currently targeting, if you are willing to risk flying close enough to it to get a reading! The Imperium Navy uses these scanners to detect when ships are equipped with illegal weaponry. Installing more than one increases the scan range and speed."
 
 outfit "Asteroid Scanner"
 	category "Systems"
@@ -322,7 +322,7 @@ outfit "Brig"
 	"mass" 3
 	"outfit space" -3
 	"unplunderable" 1
-	description "With the addition of some reinforced doors, locks, and security systems, any ship's passenger compartment can be turned into a brig. This makes it suitable for transporting criminals and prisoners, or participating in the highly illegal galactic slave trade. These cells are often found on ships owned by bounty hunters, pirates, and of course, the Republic's interstellar law enforcement."
+	description "With the addition of some reinforced doors, locks, and security systems, any ship's passenger compartment can be turned into a brig. This makes it suitable for transporting criminals and prisoners, or participating in the highly illegal galactic slave trade. These cells are often found on ships owned by bounty hunters, pirates, and of course, the Imperium's interstellar law enforcement."
 
 outfit "Luxury Accommodations"
 	plural "Luxury Accommodations"
@@ -443,7 +443,7 @@ outfit "Pilot's License"
 	category "Licenses"
 	cost 50000
 	thumbnail "outfit/license"
-	description "For much of the Republic's nearly three century long history, being able to pilot your own starship was limited only by your ability to purchase one. But at the turn of the millennium in an attempt to increase tax revenue, the Republic Parliament passed a law requiring that all ship captains purchase a pilot's license, and for no small fee at that. Needless to say, this policy is not terribly popular with freelance merchant captains."
+	description "For much of the Imperium's nearly three century long history, being able to pilot your own starship was limited only by your ability to purchase one. But at the turn of the millennium in an attempt to increase tax revenue, the Imperium Parliament passed a law requiring that all ship captains purchase a pilot's license, and for no small fee at that. Needless to say, this policy is not terribly popular with freelance merchant captains."
 
 outfit "Navy License"
 	category "Licenses"
@@ -458,7 +458,7 @@ outfit "Navy Auxiliary License"
 outfit "Navy Cruiser License"
 	category "Licenses"
 	thumbnail "outfit/navy cruiser license"
-	description "It is a very rare privilege to be permitted to purchase a Navy capital ship for private use - not just because of a Cruiser's firepower, but because it is a potent symbol of the Republic's strength."
+	description "It is a very rare privilege to be permitted to purchase a Navy capital ship for private use - not just because of a Cruiser's firepower, but because it is a potent symbol of the Imperium's strength."
 
 outfit "Navy Carrier License"
 	category "Licenses"

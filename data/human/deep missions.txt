@@ -380,7 +380,7 @@ mission "Deep: Mystery Cubes 1"
 	name `Travel to <planet>`
 	description `Travel to <destination> to learn more about the situation with the warlord Beelzebub.`
 	source
-		government "Republic" "Free Worlds" "Neutral" "Syndicate" "Independent"
+		government "Imperium" "Free Worlds" "Neutral" "Syndicate" "Independent"
 		not system "Sol"
 	destination "Luna"
 	to offer
@@ -453,10 +453,10 @@ mission "Deep: Mystery Cubes 2"
 				"Mule"
 				"Raven" 2
 	npc accompany save
-		government "Republic"
+		government "Imperium"
 		personality heroic opportunistic escort
 		fleet
-			names "republic capital"
+			names "Imperium capital"
 			variant
 				"Cruiser"
 				"Gunboat" 2
@@ -482,19 +482,19 @@ mission "Deep: Mystery Cubes 3: Escorts"
 				"Raven" 2
 				"Dagger"
 	npc kill
-		government "Republic"
+		government "Imperium"
 		personality heroic opportunistic escort vindictive
 		fleet
-			names "republic capital"
+			names "Imperium capital"
 			variant
 				"Cruiser"
 				"Gunboat" 2
 	npc kill
-		government "Republic"
+		government "Imperium"
 		personality timid
 		fleet
 			fighters
-				names "republic fighter"
+				names "Imperium fighter"
 			variant
 				"Combat Drone" 4
 
@@ -561,12 +561,12 @@ mission "Deep: Mystery Cubes 4"
 				accept
 	
 	npc
-		government "Republic"
+		government "Imperium"
 		personality heroic opportunistic escort entering
 		fleet
-			names "republic capital"
+			names "Imperium capital"
 			fighters
-				names "republic fighter"
+				names "Imperium fighter"
 			variant
 				"Carrier"
 				"Combat Drone" 6
@@ -581,13 +581,13 @@ mission "Deep: Mystery Cubes 4"
 				"Bastion"
 				"Manta" 2
 	npc
-		government "Republic"
+		government "Imperium"
 		personality staying heroic opportunistic vindictive
 		system destination
 		fleet
-			names "republic capital"
+			names "Imperium capital"
 			fighters
-				names "republic fighter"
+				names "Imperium fighter"
 			variant
 				"Cruiser"
 				"Combat Drone" 4
@@ -605,13 +605,13 @@ mission "Deep: Mystery Cubes 4"
 				"Dagger" 4
 				"Corvette (Speedy)"
 	npc
-		government "Republic"
+		government "Imperium"
 		personality heroic opportunistic vindictive
 		system Sol
 		fleet
-			names "republic capital"
+			names "Imperium capital"
 			fighters
-				names "republic fighter"
+				names "Imperium fighter"
 			variant
 				"Carrier"
 				"Cruiser" 2
@@ -642,7 +642,7 @@ mission "Deep: Mystery Cubes 4"
 		event "assisted the deep" 7
 		payment 1000000
 		log `Helped to destroy the last of the Navy Cruisers stolen by Beelzebub, but he has escaped. The Navy is still searching, but is no longer asking for help from merchants.`
-		log "People" "Beelzebub" `Beelzebub, as many call them, is one of the most notorious pirates in human space. They're responsible for committing countless acts of crimes against both humanity and the Republic government and are still at large somewhere in the galaxy despite a major setback.`
+		log "People" "Beelzebub" `Beelzebub, as many call them, is one of the most notorious pirates in human space. They're responsible for committing countless acts of crimes against both humanity and the Imperium government and are still at large somewhere in the galaxy despite a major setback.`
 		conversation
 			`As you come in for a landing, you can see that a number of buildings have taken fire from the pirate fleet above. White tents have been set up to tend to the wounded and multiple ships are being repaired. You are directed to an unscathed building in which a number of Navy officers, the admiral you met on Luna, Lieutenant Paris, and your fellow merchant captains have convened. After you enter the room and get settled down, the admiral begins to speak.`
 			`	"Here's the sitrep. Beelzebub's ship was spotted entering the system, followed by the rest of the pirate fleet. His ship seemed to disappear in the confusion, so we have no idea where he went. Either Beelzebub is currently hiding on the anarchist worlds or has made a dash for the Core, in which case the chase goes on."`
@@ -709,7 +709,7 @@ mission "Deep: TMBR 0"
 			label met
 			`	"You know 'There Might Be Riots?' You are so lucky!" says Rayna.`
 			`	"I couldn't even see them during the 'Trouble on the Tarmac' tour, but you've met them? That's insane!" shrieks Laura.`
-			`	Hannah chimes in, "Do you know where the band is? They've been quiet for a while now, ever since that broadcast. I heard rumors that the Republic detained them for trespassing, but since you're here..."`
+			`	Hannah chimes in, "Do you know where the band is? They've been quiet for a while now, ever since that broadcast. I heard rumors that the Imperium detained them for trespassing, but since you're here..."`
 			choice
 				`	"I know where they are and rest assured, they're safe."`
 				`	"Sorry, I don't know where they are."`
@@ -770,13 +770,13 @@ mission "Deep: TMBR 1"
 			`You find "There Might Be Riots" playing a gig right in the spaceport of <origin>. Judging by the large number of Hai in the audience, they seem to have amassed quite the following, even in Hai space.`
 			`	While the band intermixes crowd favorites and some new songs clearly inspired by their time in Hai space, you make your way to the side of the makeshift stage. Once the concert ends, Ulrich notices you and approaches.`
 			`	"Captain <last>, it's been a while! We've been having a great time with the peaceful squirrels ever since you dropped us off. It's the craziest experience we've ever had." He regales you with a number of adventures the band has been on since they came to Hai space, and how they were all surprised that even in such an idyllic place war was still a reality. "Say, what brings you here?"`
-			`	He listens intently to your story of the scientists on <planet>, but his brow furrows when you mention the rumor of imprisonment by the Republic.`
+			`	He listens intently to your story of the scientists on <planet>, but his brow furrows when you mention the rumor of imprisonment by the Imperium.`
 			branch public
 				has "event: hai-human resolution announced"
-			`	"Maybe we've been away long enough. I thought there would be some rumors or recordings that made it back to the Republic from here, but this place is a pretty well-kept secret, so perhaps not. Maybe it's time to go back to the land of the humans."`
+			`	"Maybe we've been away long enough. I thought there would be some rumors or recordings that made it back to the Imperium from here, but this place is a pretty well-kept secret, so perhaps not. Maybe it's time to go back to the land of the humans."`
 				goto return
 			label public
-			`	"Maybe we've been away long enough. With recent events, I suppose it's only a matter of time until our presence here becomes known more widely to the Republic anyway, so we don't exactly gain much by staying. Maybe it's time to go back to the land of the humans."`
+			`	"Maybe we've been away long enough. With recent events, I suppose it's only a matter of time until our presence here becomes known more widely to the Imperium anyway, so we don't exactly gain much by staying. Maybe it's time to go back to the land of the humans."`
 			label return
 			`	Ulrich gathers up the rest of the band and they pack up their supplies. You chart a course for <destination> as they load their musical equipment on your ship and get ready for the long ride back to human space.`
 				accept
@@ -817,7 +817,7 @@ mission "Deep: Questions"
 	name `Mysterious Message`
 	description `Travel to <destination> to meet the author of an encrypted message.`
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		not system "Zosma"
 	destination
 		attributes "deep"
@@ -1387,7 +1387,7 @@ mission "Deep: Remnant: Keystone Research"
 	name `Travel to <planet>`
 	description `Meet up with Ivan on <destination> to learn about his research on the quantum keystones you brought him.`
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		not system "Epsilon Leonis"
 	destination "Valhalla"
 	to offer
@@ -1666,7 +1666,7 @@ event "deep: scan log research"
 mission "Deep: Remnant Research"
 	landing
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 	to offer
 		has "event: deep: scan log research"
 	
@@ -1708,7 +1708,7 @@ mission "Deep: Remnant: Continue Research"
 	name `Travel to <planet>`
 	description `Meet up with Ivan on <destination> to continue helping with research on the Ember Waste.`
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		not system "Epsilon Leonis"
 	destination "Valhalla"
 	to offer
@@ -2098,7 +2098,7 @@ mission "Deep: Scientist Rescue 1"
 	on offer
 		payment 250000
 		log `Located the Deep Star Queen that was kidnapped by pirates while en route to Gorvi. Deep Security has finished gathering their rescue fleet and will soon be making the trip to rescue the scientists.`
-		log "People" "Tom Paris" `Paris is a high ranking guard in Deep Security, equivalent to an admiral in the Republic Navy. While most of Deep Security is designed to keep the Deep safe internally and repel any pirates that might try to make their way into the region, Paris is in charge of Deep Security's external affairs, defending the Deep's interests outside its own borders.`
+		log "People" "Tom Paris" `Paris is a high ranking guard in Deep Security, equivalent to an admiral in the Imperium Navy. While most of Deep Security is designed to keep the Deep safe internally and repel any pirates that might try to make their way into the region, Paris is in charge of Deep Security's external affairs, defending the Deep's interests outside its own borders.`
 		conversation
 			`You return to Valhalla and find Lieutenant Paris with a large group of men and women in Deep Security uniforms. As you approach them, the Lieutenant stops speaking to the group after noticing you. "Captain <last>! Have you located the Star Queen?"`
 			choice
@@ -2141,8 +2141,8 @@ event "battle in arneb"
 	system "Arneb"
 		remove fleet "Large Northern Pirates"
 		remove fleet "Small Northern Pirates"
-		remove fleet "Large Republic"
-		add fleet "Large Republic" 10000
+		remove fleet "Large Imperium"
+		add fleet "Large Imperium" 10000
 
 
 
@@ -2209,7 +2209,7 @@ mission "Deep: Scientist Rescue 1: Escorts"
 
 mission "Deep: Scientist Rescue 1: Recruit Reinforcements"
 	landing
-	name "Republic Navy escorts on <planet>"
+	name "Imperium Navy escorts on <planet>"
 	description "Lieutenant Paris mentioned that some Navy officers were interested in avenging the loss of their comrades. Meet up with them on <destination>, if you want to."
 	source "Valhalla"
 	destination "Farpoint"
@@ -2236,12 +2236,12 @@ mission "Deep: Scientist Rescue 1: Reinforcements"
 			`While refueling at the Farpoint Navy base, you are approached by two Navy officers who recognize you as Captain <last>. They tell you that Lieutenant Paris contacted them a few days ago, indicating that the rescue fleet was en route and would be reaching the Alnitak system shortly. They inform you that they have requisitioned two Cruisers to assist in the Star Queen's retrieval, and depart for their ships.`
 				accept
 	npc kill
-		government "Republic"
+		government "Imperium"
 		personality heroic escort
 		fleet 2
-			names "republic capital"
+			names "Imperium capital"
 			fighters
-				names "republic fighter"
+				names "Imperium fighter"
 			variant
 				"Cruiser"
 				"Combat Drone" 4
@@ -2460,10 +2460,10 @@ mission "Deep: Scientist Rescue 3B"
 
 event "battle in arneb end"
 	system Arneb
-		remove fleet "Large Republic"
+		remove fleet "Large Imperium"
 		add fleet "Small Northern Pirates" 400
 		add fleet "Large Northern Pirates" 500
-		add fleet "Large Republic" 15000
+		add fleet "Large Imperium" 15000
 
 
 
@@ -3447,7 +3447,7 @@ mission "Mani Refit"
 		has "event: mani refit"
 	description "Head back to <destination> and meet up with the Transport Union's Fleet."
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		not planet "Mani"
 	destination "Mani"
 	on offer
@@ -3541,7 +3541,7 @@ mission "Skadenga Call 1"
 	name "Check on Hjlod"
 	description `Fly to <destination> to see what Hjlod and the Skadenga need from you. Make sure to have 52 bunks spare when you land.`
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		not planet "Asgard"
 	destination "Asgard"
 	to offer
@@ -3645,7 +3645,7 @@ event "the book"
 mission "Skadenga Call 3"
 	landing
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 	to offer
 		has "Skadenga Call 2: declined"
 	on offer
@@ -3795,7 +3795,7 @@ mission "Home for Skadenga 10"
 		has "dealwithhroar"
 	description "Head back to <destination>, and meet up with Hroar's fleet."
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		not planet "Muspel"
 	destination "Muspel"
 	on offer
@@ -4117,7 +4117,7 @@ mission "Hjlod Remembers Windblain"
 	name "Hjlod Remembers"
 	description `Hjlod wishes to meet with you again on <planet>.`
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		not planet "Windblain"
 	destination "Windblain"
 	to offer
@@ -4148,7 +4148,7 @@ mission "Hjlod Remembers Nifel"
 	name "Hjlod Remembers"
 	description `Hjlod wishes to meet with you again on <planet>.`
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		not planet "Nifel"
 	destination "Nifel"
 	to offer
@@ -4179,7 +4179,7 @@ mission "Hjlod Remembers Nifel"
 mission "The Book of Skadenga"
 	minor
 	source
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 	to offer
 		random < 10
 		has "event: the book"

@@ -42,7 +42,7 @@ planet Ada
 	security 0.9
 	tribute 4200
 		threshold 8000
-		fleet "Large Republic" 16
+		fleet "Large Imperium" 16
 
 planet Aera
 	attributes "requires: gaslining"
@@ -105,7 +105,7 @@ planet Alexandria
 	bribe 0.1
 	tribute 1000
 		threshold 8000
-		fleet "Large Republic" 7
+		fleet "Large Imperium" 7
 
 planet Alfheim
 	attributes deep factory oil
@@ -502,7 +502,7 @@ planet "Buccaneer Bay"
 	attributes core "core pirate" fishing frontier pirate
 	landscape land/beach0
 	description `Pirates who have struck it rich dream of retiring on Buccaneer Bay. It is a warm ocean planet, with many places reminiscent of the islands in the ancient Caribbean where humanity's greatest pirate fleets sailed.`
-	description `	Many of the inhabitants are in fact not pirates, but their descendants, and these children and grand-children of anarchist outlaws have built a system of regional government that oversees hospitals, schools, and other public services, all created without funding from the Republic or taxes paid to it. The planet even sports its own shipyard, although many of the ships built here are, not surprisingly, based on designs pirated from the Syndicate and Republic shipyards.`
+	description `	Many of the inhabitants are in fact not pirates, but their descendants, and these children and grand-children of anarchist outlaws have built a system of regional government that oversees hospitals, schools, and other public services, all created without funding from the Imperium or taxes paid to it. The planet even sports its own shipyard, although many of the ships built here are, not surprisingly, based on designs pirated from the Syndicate and Imperium shipyards.`
 	spaceport `This is the sort of spaceport you picture in your head when you think of pirates. Half the storefronts are bars, and rum seems to be on the menu everywhere. It is almost like the stories of ancient Earth, except that the eye patches are cybernetic implants and the peg legs are motorized prostheses. Swarthy, dangerous-looking women glance at you as you pass by, and scantily clad men crowd around the bars, which is what you seem to remember the stories said it was like on Earth, too, although there it may have been the other way around.`
 	shipyard "Core Pirates"
 	shipyard "Advanced Core Pirates"
@@ -580,7 +580,7 @@ planet Calda
 	security 0.5
 	tribute 3300
 		threshold 5500
-		fleet "Large Republic" 13
+		fleet "Large Imperium" 13
 
 planet Canyon
 	attributes core farming frontier
@@ -612,7 +612,7 @@ planet "Carbuncle Station"
 	security 0.9
 	tribute 2700
 		threshold 5500
-		fleet "Large Republic" 10
+		fleet "Large Imperium" 10
 
 planet Cassandra
 	attributes paradise uninhabited
@@ -674,7 +674,7 @@ planet "Charybdis Station"
 planet Chiron
 	attributes factory "near earth" research urban
 	landscape land/city21
-	description `Chiron is the only planet outside the solar system that was colonized by humanity prior to the discovery of the hyperdrive. It is now the second most populous planet in the Republic, with many sprawling cities and a burgeoning pollution problem.`
+	description `Chiron is the only planet outside the solar system that was colonized by humanity prior to the discovery of the hyperdrive. It is now the second most populous planet in the Imperium, with many sprawling cities and a burgeoning pollution problem.`
 	description `	Although Earth still has the most prestigious universities in the galaxy, Chiron has become the de-facto leader in higher education, catering to those who value excellent teaching more highly than an illustrious name. As a result, off-world students form a noticeable fraction of the population.`
 	spaceport `There are two spaceports on Chiron. The Old Port was built back when it was first settled, and was placed in a desert region, far from where people would want to live, so that they would not be as affected by the fallout from the nuclear propulsion that was used in the first, pre-hyperspace starships.`
 	spaceport `	The New Port, on the other hand, is in the center of New Sydney, one of Chiron's largest cities. Its soaring architecture and gleaming mirrored glass is intended to make a clear statement, that Chiron is everything Earth is not: clean, modern, prosperous.`
@@ -690,7 +690,7 @@ planet Chiron
 	security 0.3
 	tribute 4400
 		threshold 7500
-		fleet "Large Republic" 17
+		fleet "Large Imperium" 17
 
 planet "Chosen Nexus"
 	attributes saryd shipping urban
@@ -788,7 +788,7 @@ planet "Corral of Meblumem"
 planet Covert
 	attributes core "core pirate" frontier mining pirate
 	landscape land/badlands10
-	description `Covert is home to a powerful mining cartel, operating outside the control of Republic law or any other external authority. It is rumored to be one of the few planets in human space where weapons-grade uranium and plutonium is mined and enriched. Any goods for sale here were most likely produced by slave labor, often by survivors of ships that have been captured by pirates. A massive pirate fleet is docked on the outskirts of the spaceport, a warning to any private pilot who might think of cheating or opposing the cartel.`
+	description `Covert is home to a powerful mining cartel, operating outside the control of Imperium law or any other external authority. It is rumored to be one of the few planets in human space where weapons-grade uranium and plutonium is mined and enriched. Any goods for sale here were most likely produced by slave labor, often by survivors of ships that have been captured by pirates. A massive pirate fleet is docked on the outskirts of the spaceport, a warning to any private pilot who might think of cheating or opposing the cartel.`
 	spaceport `From the moment you landed, you have been followed by a pair of security guards with earpieces and laser guns. The spaceport is one enormous building, with square, straight hallways and featureless walls, and nearly every door you pass is locked. Cameras at each hallway intersection pivot to watch as you approach. This is simultaneously one of the most secure spaceports you have visited, and one of the most dangerous, although if you do not do anything to provoke the animosity of the cartel, you will probably be able to leave in peace.`
 	shipyard "Southern Pirates"
 	shipyard "Core Pirates"
@@ -835,7 +835,7 @@ planet Cyife
 planet "Dagon Station"
 	attributes core station uninhabited
 	landscape land/station50
-	description `Originally built in the 25th century as a corporate military outpost, Dagon Station's notoriety stems from its past as a privateer base; its infamous mercenary fleets all but decided the victors in the constant wars in this region during the 26th and 27th centuries. As those conflicts subsided, those privateers began turning towards piracy. Their influence was brought to an end when a fleet from Earth took control of the station, later becoming a military base for the fledgling Republic.`
+	description `Originally built in the 25th century as a corporate military outpost, Dagon Station's notoriety stems from its past as a privateer base; its infamous mercenary fleets all but decided the victors in the constant wars in this region during the 26th and 27th centuries. As those conflicts subsided, those privateers began turning towards piracy. Their influence was brought to an end when a fleet from Earth took control of the station, later becoming a military base for the fledgling Imperium.`
 	description `	In the 29th century, control of Dagon Station was passed to the Syndicate, who eventually vacated the station due to its age. Local laws prevent landing on Dagon Station without a permit, but the Syndicate doesn't pay close attention to whether or not anybody lands here, anyway.`
 
 planet Dancer
@@ -1137,7 +1137,7 @@ planet Earth
 	attributes factory "near earth" research tourism urban
 	landscape land/city20
 	description `The ancestral home world of humanity, Earth has a population twice that of any other inhabited planet. Sprawling cities cover large portions of its surface, many of them overcrowded and dangerous. Some people work to scrape together enough money to leave, while at the same time others, born on distant worlds, make a pilgrimage of sorts to see this planet that once cradled the entirety of the human species.`
-	description `	Earth is also the capital of the Republic. Representative government becomes complicated when one planet has a greater population than a hundred planets elsewhere. As a result, settlements of less than a million are grouped together into planetary districts that elect a single representative between them - a source of much frustration in the frontier worlds.`
+	description `	Earth is also the capital of the Imperium. Representative government becomes complicated when one planet has a greater population than a hundred planets elsewhere. As a result, settlements of less than a million are grouped together into planetary districts that elect a single representative between them - a source of much frustration in the frontier worlds.`
 	spaceport `Earth's spaceport is a series of massive buildings; the gaps between them form narrow concrete canyons a hundred stories deep. From a distance it has the appearance of a bustling termite mound.`
 	spaceport `	Inside the towers is a warren of dim hallways and dingy shops. Hitchhikers sleep in the corners of unused docking bays under old army blankets, a few uniformed cleaners try to keep the litter and dust in check, and rich tourists from other stars cling tightly to their expensive cameras.`
 	outfitter "Common Outfits"
@@ -1149,7 +1149,7 @@ planet Earth
 	security 0.3
 	tribute 10000
 		threshold 20000
-		fleet "Large Republic" 50
+		fleet "Large Imperium" 50
 
 planet Eavine
 	attributes frozen ka'het uninhabited
@@ -1462,7 +1462,7 @@ planet "Fara Skaeruti"
 planet Farpoint
 	attributes frontier military north
 	landscape land/desert4
-	description `Farpoint, on the northernmost end of human space, is a rocky desert planet home to a Republic Navy base and not much else. Farming is possible only within greenhouses, and this system is too far from the galactic center to be desirable for trade or industry.`
+	description `Farpoint, on the northernmost end of human space, is a rocky desert planet home to a Imperium Navy base and not much else. Farming is possible only within greenhouses, and this system is too far from the galactic center to be desirable for trade or industry.`
 	spaceport `The spaceport is the Navy base; there are no other settlements. There are a few pubs filled mostly with off-duty officers, and a quartermaster's warehouse where you can trade goods. The most striking aspect of the base, however, is how empty it is. There are enough buildings here to make it feel like a small city, but only one small corner of the port is in use; the rest of the buildings are boarded up. And there are enough landing pads and hangars to house perhaps a fifth of the entire fleet, but they are nearly all empty at the moment.`
 	spaceport `	The massive scale of the fortifications, coupled with their state of near-total disuse, puts you in mind of the fabled Maginot Line on Earth - a relic of an anticipated battle that failed to materialize according to plan.`
 	outfitter "Common Outfits"
@@ -1473,7 +1473,7 @@ planet Farpoint
 	security 0.8
 	tribute 900
 		threshold 5500
-		fleet "Large Republic" 6
+		fleet "Large Imperium" 6
 
 planet Farseer
 	attributes paradise rich tourism
@@ -1486,7 +1486,7 @@ planet Farseer
 	security 0.6
 	tribute 3500
 		threshold 6500
-		fleet "Large Republic" 14
+		fleet "Large Imperium" 14
 
 planet Farwater
 	attributes hai "hai tourism" medical
@@ -1503,7 +1503,7 @@ planet Featherweight
 	security 0.5
 	tribute 800
 		threshold 4500
-		fleet "Small Republic" 30
+		fleet "Small Imperium" 30
 
 planet "Fek Rembatu"
 	attributes korath
@@ -1592,7 +1592,7 @@ planet Follower
 	security 0.4
 	tribute 2400
 		threshold 4500
-		fleet "Small Republic" 86
+		fleet "Small Imperium" 86
 
 planet Forpelog
 	attributes "human quarg" moon quarg
@@ -1664,7 +1664,7 @@ planet Furnace
 	attributes core military moon
 	landscape land/bwerner4
 	description `Furnace is a nearly uninhabited world, used mostly as a waypoint for shipping and as a staging point for the Syndicate fleets that seek to keep this region of space free from pirates. The atmosphere is barely thick enough to be breathable, and none of the plants that grow here are useful for eating. However, because it is only a large moon instead of a full-sized planet, moving cargo and fleets of ships to and from its surface is fairly easy and inexpensive.`
-	description `	Conducting any business here is a nightmare of tedium. Syndicate doctrine claims that corporate structure and process produce a leaner and more effective military force without the perceived wastage of the Republic Navy. But in practice, they seem to have combined all the worst aspects of military and corporate bureaucracy.`
+	description `	Conducting any business here is a nightmare of tedium. Syndicate doctrine claims that corporate structure and process produce a leaner and more effective military force without the perceived wastage of the Imperium Navy. But in practice, they seem to have combined all the worst aspects of military and corporate bureaucracy.`
 	spaceport `The spaceport is mostly a military base. Uniformed crew members hurry back and forth without giving you a second glance. The food in the mess hall is standard military fare, hearty but bland and unappetizing, and there are few shops or other services catering to civilians.`
 	outfitter "Syndicate Basics"
 	outfitter "Basic Outfits"
@@ -1713,7 +1713,7 @@ planet "Garden Empyreal"
 planet Geminus
 	attributes factory military mining paradise
 	landscape land/mountain18-harro
-	description `Geminus, although not the most hospitable of worlds, is a young enough planet that large stores of iron, titanium, and other metals are easily accessible near the surface. For that reason, it has become one of the Republic's primary shipyards. More than half of the warships in the Navy were constructed here.`
+	description `Geminus, although not the most hospitable of worlds, is a young enough planet that large stores of iron, titanium, and other metals are easily accessible near the surface. For that reason, it has become one of the Imperium's primary shipyards. More than half of the warships in the Navy were constructed here.`
 	description `	The constant volcanic activity leaves the planet perpetually shrouded in clouds of ash and fog, so that being outside means being in a twilight haze with low visibility. Probably in compensation for this, interior spaces tend to be brightly lit and painted in bold colors.`
 	spaceport `Like everything else on Geminus, the spaceport is not terribly pretty, but is functional and efficient. Each of the wide hallways is marked out like a road, with space in the center for electric carts carrying cargo, while pedestrians are relegated to the edges.`
 	spaceport `	The hub of the spaceport is a food court with a ring of shops in the center and seating on the outside, where you can look out of plate glass windows at the lava fields and caldera outside. By night, you can see the volcanic glow all around the horizon.`
@@ -1730,7 +1730,7 @@ planet Geminus
 	security 0.9
 	tribute 4800
 		threshold 7500
-		fleet "Large Republic" 18
+		fleet "Large Imperium" 18
 
 planet Gemstone
 	attributes "dirt belt" mining
@@ -1765,7 +1765,7 @@ planet Geyser
 	security 0.3
 	tribute 1300
 		threshold 3500
-		fleet "Small Republic" 20
+		fleet "Small Imperium" 20
 
 planet Ghneoe
 	attributes uninhabited
@@ -1841,7 +1841,7 @@ planet Glory
 	security 0.6
 	tribute 4300
 		threshold 7500
-		fleet "Large Republic" 16
+		fleet "Large Imperium" 16
 
 planet Goldcrawl
 	attributes hai retirement station
@@ -2025,7 +2025,7 @@ planet Harmony
 planet Haven
 	attributes frontier mining north "north pirate" pirate
 	landscape land/dune1
-	description `Haven was founded by highly successful "privateers" nearly two centuries ago. Since then, as rival bands of pirates have fought over it, it has changed hands fourteen times, but has never been successfully invaded by the Republic. Numerous small manufacturing shops sell outfits that cannot be bought legally, and there is even a small shipyard where customized ships are sold to those who have the right connections.`
+	description `Haven was founded by highly successful "privateers" nearly two centuries ago. Since then, as rival bands of pirates have fought over it, it has changed hands fourteen times, but has never been successfully invaded by the Imperium. Numerous small manufacturing shops sell outfits that cannot be bought legally, and there is even a small shipyard where customized ships are sold to those who have the right connections.`
 	description `	Much of the planet is desert, but with enough moisture to grow enough crops to feed the entire population. Strip mining has turned other parts of the planet into barren wastelands, and has polluted many of the rivers.`
 	spaceport `The spaceport is old and dingy, with piles of litter in the gutters and graffiti on many of the alley walls. Many of the shops are closed, the windows boarded over or covered with yellowing paper.`
 	spaceport `	This is an independent world, and a relatively stable settlement, but the effects of its separation from the rest of the galaxy are evident. A few young people carrying large backpacks eye you with interest, perhaps trying to gauge their chances of getting you to give them a cheap lift off-planet.`
@@ -2072,7 +2072,7 @@ planet Heartland
 	security 0.2
 	tribute 900
 		threshold 3500
-		fleet "Large Republic" 4
+		fleet "Large Imperium" 4
 
 planet Heartvalley
 	attributes hai "hai tourism" manufacturing
@@ -2130,7 +2130,7 @@ planet Hermes
 	security 0.9
 	tribute 1400
 		threshold 3500
-		fleet "Large Republic" 6
+		fleet "Large Imperium" 6
 
 planet Hestia
 	attributes paradise rich
@@ -2146,7 +2146,7 @@ planet Hestia
 	security 0.5
 	tribute 4900
 		threshold 8500
-		fleet "Large Republic" 18
+		fleet "Large Imperium" 18
 
 planet Hippocrates
 	attributes core frontier research
@@ -2165,7 +2165,7 @@ planet Hope
 	attributes frozen uninhabited
 	landscape land/snow9
 	description `In the year 2994, Hope was a somewhat cold but otherwise hospitable planet, home to a burgeoning population of almost two million people. But that year, a supervolcano eruption ejected so much dust into the upper atmosphere that a new ice age set in and the planet became unlivable.`
-	description `	As the temperatures steadily dropped, nearly half the Republic Navy was mobilized to evacuate settlers from Hope and transport them to nearby colonies. The evacuation effort took six months.`
+	description `	As the temperatures steadily dropped, nearly half the Imperium Navy was mobilized to evacuate settlers from Hope and transport them to nearby colonies. The evacuation effort took six months.`
 	description `	The abandoned villages and towns are now buried deep beneath the snow, and occasional treasure hunters come here to explore them and find items of value that were left behind.`
 	"required reputation" -1000
 
@@ -2186,7 +2186,7 @@ planet "Huginn Station"
 	attributes deep station
 	landscape land/sivael2
 	music ambient/machinery
-	description `Huginn and Muninn stations, together, are the gateway to the Deep, the region of space north of here. The Deep was the first large region of space to have a democratic government, predating the Republic by nearly two centuries.`
+	description `Huginn and Muninn stations, together, are the gateway to the Deep, the region of space north of here. The Deep was the first large region of space to have a democratic government, predating the Imperium by nearly two centuries.`
 	description `	Huginn Station is a prison station where convicted pirates must work at harvesting and refining deuterium to atone for their crimes against humanity. There are no services available for you here and the security guards, surprised by your visit and wondering at your motives, watch you closely.`
 	"required reputation" 20
 	bribe 0.1
@@ -2645,7 +2645,7 @@ planet Luna
 	security 0.2
 	tribute 2500
 		threshold 7500
-		fleet "Large Republic" 10
+		fleet "Large Imperium" 10
 
 planet Maelstrom
 	attributes frontier mining north
@@ -2659,7 +2659,7 @@ planet Maelstrom
 	security 0.5
 	tribute 2700
 		threshold 5500
-		fleet "Large Republic" 11
+		fleet "Large Imperium" 11
 
 planet Mahoganybox
 	attributes hai retirement station
@@ -2689,7 +2689,7 @@ planet Mainsail
 	security 0.5
 	tribute 1600
 		threshold 3500
-		fleet "Small Republic" 57
+		fleet "Small Imperium" 57
 
 planet Maker
 	attributes core factory mining
@@ -2748,18 +2748,18 @@ planet Mars
 	security 0.2
 	tribute 1800
 		threshold 4500
-		fleet "Small Republic" 64
+		fleet "Small Imperium" 64
 
 planet Martini
 	attributes paradise rich tourism
 	landscape land/myrabella4
-	description `Martini is a world of exotic beaches and perfect weather. The Republic's central bank and the galactic stock exchange are headquartered here, and so much money flows through this world's economy every day that the cost of utterly controlling its weather and climate is only a drop in the bucket. Not surprisingly, real estate prices here are astronomical; a small condo in one of Martini's main cities costs more than a capital starship.`
+	description `Martini is a world of exotic beaches and perfect weather. The Imperium's central bank and the galactic stock exchange are headquartered here, and so much money flows through this world's economy every day that the cost of utterly controlling its weather and climate is only a drop in the bucket. Not surprisingly, real estate prices here are astronomical; a small condo in one of Martini's main cities costs more than a capital starship.`
 	spaceport `The spaceport is a set of four skyscrapers joined by bridges and platforms at various levels. Hangars are built directly into the towers themselves, with deflector shield generators set up to ensure that ships do not crash, intentionally or otherwise, while approaching the towers to dock. Inside, all the floors and walls are gleaming granite, with teams of workers constantly polishing everything to ensure that not even so much as a fingerprint smudge is visible.`
 	bribe 0.1
 	security 0.5
 	tribute 5600
 		threshold 8500
-		fleet "Large Republic" 22
+		fleet "Large Imperium" 22
 
 planet "Mebla's Portion"
 	attributes arach urban
@@ -3016,7 +3016,7 @@ planet "New Argentina"
 	security 0.05
 	tribute 1000
 		threshold 3500
-		fleet "Large Republic" 4
+		fleet "Large Imperium" 4
 
 planet "New Austria"
 	attributes "dirt belt" mining
@@ -3078,7 +3078,7 @@ planet "New China"
 	security 0.1
 	tribute 1400
 		threshold 4000
-		fleet "Small Republic" 50
+		fleet "Small Imperium" 50
 
 planet "New Finding"
 	attributes research saryd
@@ -3186,7 +3186,7 @@ planet "New Switzerland"
 	security 0.1
 	tribute 300
 		threshold 2000
-		fleet "Small Republic" 11
+		fleet "Small Imperium" 11
 
 planet "New Tibet"
 	attributes "dirt belt" factory religious
@@ -3441,7 +3441,7 @@ planet Pearl
 	security 0.7
 	tribute 2800
 		threshold 6000
-		fleet "Large Republic" 11
+		fleet "Large Imperium" 11
 
 planet "Pelubta Station"
 	attributes arach "coalition station" research
@@ -3485,7 +3485,7 @@ planet Pilot
 	security 0.9
 	tribute 600
 		threshold 2000
-		fleet "Small Republic" 21
+		fleet "Small Imperium" 21
 
 planet Pincian
 	attributes moon uninhabited
@@ -3524,8 +3524,8 @@ planet "Plort's Water"
 planet Poisonwood
 	attributes factory farming frontier south
 	landscape land/bwerner6
-	description `Until very recently, Poisonwood was home to a slave colony run by a powerful outlaw cartel. Tens of thousands of slaves were forced to work in hot, dirty manufacturing plants or irrigating fields out under the burning sun. Finally, in the year 2985, a Republic Navy strike force defeated the cartel and liberated the slaves. The Navy also supplied the manpower and equipment necessary to transform the factories and towns into a more livable setting for those who chose to remain, while giving others free passage off-world.`
-	description `	Today, most of the inhabitants are children of the liberated slaves, and like their parents they remain grateful and fiercely loyal to the Republic.`
+	description `Until very recently, Poisonwood was home to a slave colony run by a powerful outlaw cartel. Tens of thousands of slaves were forced to work in hot, dirty manufacturing plants or irrigating fields out under the burning sun. Finally, in the year 2985, a Imperium Navy strike force defeated the cartel and liberated the slaves. The Navy also supplied the manpower and equipment necessary to transform the factories and towns into a more livable setting for those who chose to remain, while giving others free passage off-world.`
+	description `	Today, most of the inhabitants are children of the liberated slaves, and like their parents they remain grateful and fiercely loyal to the Imperium.`
 	spaceport `The starport is a hodgepodge of small metal structures, built from the remains of Navy and pirate ships that fought for control of this world. The locals are unusually courteous and proud to welcome you to their planet.`
 	spaceport `	The tavern in the center of the port is named The Parting Glass. The walls are covered with photographs from after the war: liberated slaves boarding Navy ships to leave this planet that had brought them so much pain; Navy officers leaving their ships to retire on this world that they liberated; friends gone away, and friends left behind. It is a strange feeling to sit here so deeply immersed in signs of a history that you had no part in.`
 	outfitter "Ammo South"
@@ -3579,7 +3579,7 @@ planet Prime
 	security 0.6
 	tribute 4400
 		threshold 8000
-		fleet "Large Republic" 17
+		fleet "Large Imperium" 17
 
 planet "Pug Wormhole"
 	wormhole "Pug Wormhole"
@@ -3689,7 +3689,7 @@ planet Relic
 	security 0.2
 	tribute 700
 		threshold 3000
-		fleet "Small Republic" 25
+		fleet "Small Imperium" 25
 
 planet "Remnant Wormhole"
 	attributes "requires: quantum keystone"
@@ -3721,7 +3721,7 @@ planet Reunion
 	attributes factory "near earth" urban
 	landscape land/mfield4
 	description `Reunion is one of the most Earth-like planets found by the early settlers, all the way down to its moon and tides. It has grown into a mostly urban world, which supplies manufactured goods of all sorts to the neighboring systems.`
-	description `	Local politics are unusually lively for a Republic world, to the point where a seat in the local legislature is often more hotly contested than one in the Republic Parliament. Topics of debate include trade and taxation, of course, but also seemingly fringe issues like biodiversity regulations for city green space. It may be that a world with no terraforming needs is focusing instead on tweaking society itself.`
+	description `	Local politics are unusually lively for a Imperium world, to the point where a seat in the local legislature is often more hotly contested than one in the Imperium Parliament. Topics of debate include trade and taxation, of course, but also seemingly fringe issues like biodiversity regulations for city green space. It may be that a world with no terraforming needs is focusing instead on tweaking society itself.`
 	spaceport `The spaceport, although designed as a clean and modern building, is a place of barely controlled chaos: vendors selling food on the sides of the hallways, tourist families with young children, and even a few farmers driving cattle. People of every age and race and occupation rub shoulders here, but there is no sign of the extreme sort of poverty that you have seen on some other worlds.`
 	shipyard "Basic Ships"
 	shipyard "Syndicate Basics"
@@ -4010,7 +4010,7 @@ planet Serpens
 	security 0.05
 	tribute 900
 		threshold 3000
-		fleet "Large Republic" 3
+		fleet "Large Imperium" 3
 
 planet Servian
 	attributes "gas giant" "requires: gaslining" uninhabited
@@ -4102,7 +4102,7 @@ planet Shiver
 	security 0.1
 	tribute 300
 		threshold 2000
-		fleet "Small Republic" 10
+		fleet "Small Imperium" 10
 
 planet Shorebreak
 	attributes medical research rim
@@ -4131,7 +4131,7 @@ planet Shroud
 	security 0.8
 	tribute 3800
 		threshold 7000
-		fleet "Large Republic" 14
+		fleet "Large Imperium" 14
 
 planet Siedi
 	attributes gegno vi
@@ -4172,7 +4172,7 @@ planet Silver
 	security 0.1
 	tribute 700
 		threshold 4000
-		fleet "Small Republic" 25
+		fleet "Small Imperium" 25
 
 planet Sinter
 	attributes "dirt belt" mining
@@ -4197,7 +4197,7 @@ planet Skillet
 	security 0.3
 	tribute 600
 		threshold 4000
-		fleet "Small Republic" 22
+		fleet "Small Imperium" 22
 
 planet Skyfarm
 	attributes hai "hai tourism" moon
@@ -4326,7 +4326,7 @@ planet Splashdown
 	security 0.2
 	tribute 600
 		threshold 3000
-		fleet "Large Republic" 3
+		fleet "Large Imperium" 3
 
 planet "Ssil Vida"
 	attributes emitter "remnant station" sheragi uninhabited
@@ -4394,7 +4394,7 @@ planet Stormhold
 	attributes core "core pirate" forest frontier pirate
 	landscape land/fog11
 	description `Stormhold is a cold planet, with a dense, foggy atmosphere. As with many pirate outposts, Stormhold is home to an unknown number of villages and hidden outposts, each controlled by a different pirate faction. It is also said that some of the most dangerous fugitives in the galaxy live deep in the forests of this planet, escaping detection by living underground or by avoiding the use of electronic devices.`
-	spaceport `The spaceport is a large town, with a population of roughly thirty thousand. People of all races and cultures mingle freely, while keeping a wary eye open for off-worlders who may be Republic agents in disguise.`
+	spaceport `The spaceport is a large town, with a population of roughly thirty thousand. People of all races and cultures mingle freely, while keeping a wary eye open for off-worlders who may be Imperium agents in disguise.`
 	outfitter "Basic Outfits"
 	outfitter "Ammo North"
 	outfitter "Ammo South"
@@ -4540,7 +4540,7 @@ planet Thrall
 	security 0.5
 	tribute 2000
 		threshold 5000
-		fleet "Large Republic" 8
+		fleet "Large Imperium" 8
 
 planet Thshybothro
 	attributes bunrodea guild medical
@@ -4557,7 +4557,7 @@ planet Thshybothro
 planet Thule
 	attributes frontier pirate south "south pirate"
 	landscape land/dmottl2
-	description `Thule is a mountainous world with a population of nearly a billion, settled in the early days of space exploration. When the colony was first established, the Earth government did not yet have the strength to control any system but its own, and when the Republic was formed, Thule did not join, and has repulsed all efforts to force them to do so. It is well-known that the planet sponsors pirate fleets which bring it cheap materials to bolster its economy, but the planet is so far from the center of Republic space that fighting a war here would be prohibitively expensive, and so they remain unopposed.`
+	description `Thule is a mountainous world with a population of nearly a billion, settled in the early days of space exploration. When the colony was first established, the Earth government did not yet have the strength to control any system but its own, and when the Imperium was formed, Thule did not join, and has repulsed all efforts to force them to do so. It is well-known that the planet sponsors pirate fleets which bring it cheap materials to bolster its economy, but the planet is so far from the center of Imperium space that fighting a war here would be prohibitively expensive, and so they remain unopposed.`
 	spaceport `The inhabitants of Thule are notoriously suspicious of strangers. They all seem to immediately recognize you as an off-worlder, perhaps by your clothing or your accent. The food sold in the shops is like nothing you have seen elsewhere, and the natives' accents are so strong that they almost seem to be speaking a different language. You feel as if you are visiting an alien world; centuries of separation has created a culture here that is very different from your own.`
 	outfitter "Delta V Advanced"
 	outfitter "Kraz Advanced"
@@ -4661,14 +4661,14 @@ planet "Triton Station"
 	attributes military north station
 	landscape land/sivael0
 	music ambient/machinery
-	description `Triton Station serves both as a refinery for hyperspace fuel, and as a garrison for ships of the Republic Navy. Patrol ships are constantly landing here and then taking off to scour the surrounding systems for pirates. Since pirates are scarce in this part of space, it seems like a very tedious job.`
+	description `Triton Station serves both as a refinery for hyperspace fuel, and as a garrison for ships of the Imperium Navy. Patrol ships are constantly landing here and then taking off to scour the surrounding systems for pirates. Since pirates are scarce in this part of space, it seems like a very tedious job.`
 	spaceport `The mess hall is empty except for one table where some Navy officers are playing a card game. They are sitting right under a ventilation duct, and the cards keep blowing off the table; the station's low simulated gravity is not enough to hold them there.`
 	"required reputation" 10
 	bribe 0.08
 	security 0.8
 	tribute 600
 		threshold 4000
-		fleet "Small Republic" 24
+		fleet "Small Imperium" 24
 
 planet Trove
 	attributes core mining
@@ -4777,7 +4777,7 @@ planet Vail
 	security 0.6
 	tribute 2900
 		threshold 5000
-		fleet "Large Republic" 11
+		fleet "Large Imperium" 11
 
 planet Valhalla
 	attributes deep factory farming fishing research urban
@@ -5053,7 +5053,7 @@ planet Vinci
 	security 0.6
 	tribute 2800
 		threshold 5000
-		fleet "Large Republic" 11
+		fleet "Large Imperium" 11
 
 planet Violetwake
 	attributes hai station uninhabited
@@ -5215,7 +5215,7 @@ planet "Wyvern Station"
 	attributes rim station
 	landscape land/sivael7
 	music ambient/machinery
-	description `Wyvern Station was once one of the end destinations for the merchant caravans traveling along the Rim, back in the days before the Republic existed when most systems were not policed and the only way to avoid being plundered by pirates was for ships to travel in large convoys. It has also been a continuously operating hyperspace fuel refinery for more than three centuries.`
+	description `Wyvern Station was once one of the end destinations for the merchant caravans traveling along the Rim, back in the days before the Imperium existed when most systems were not policed and the only way to avoid being plundered by pirates was for ships to travel in large convoys. It has also been a continuously operating hyperspace fuel refinery for more than three centuries.`
 	spaceport `This station is old, and some parts are dirty and in need of repair, but it is at least structurally sound, and the workers here seem optimistic and energetic. The cafeteria is loud and raucous, and the repair shop is more than willing to work on starships as a break from the tedium of repairing the harvester drones that dip into the planet's atmosphere to bring back pressurized tanks full of hydrogen gas.`
 	security 0.4
 	tribute 400
@@ -5269,7 +5269,7 @@ planet "Yniu Ena"
 planet Zenith
 	attributes frontier north "north pirate" pirate
 	landscape land/water4
-	description `Zenith is a cold and unpleasant world, where the fog seldom lifts and the sun is rarely seen, where much of the lowlands are flooded each day by the tide, and storms are unpredictable and fierce. It has, however, one major advantage as a place to settle: it is far enough away that the Republic makes no attempt to control it.`
+	description `Zenith is a cold and unpleasant world, where the fog seldom lifts and the sun is rarely seen, where much of the lowlands are flooded each day by the tide, and storms are unpredictable and fierce. It has, however, one major advantage as a place to settle: it is far enough away that the Imperium makes no attempt to control it.`
 	description `	Several villages have been founded near the equator, and in addition there are an unknown number of private holdings, ranging from underground bunkers to enormous concrete fortresses. Because the land is owned by no government and anyone can build a dwelling without permission or paperwork as long as they are willing to fight off any other claimants, the total population of Zenith is unknown.`
 	spaceport `To create a spaceport for Zenith, one enterprising privateer a few centuries ago used a mixture of explosives and heavy machinery to shift the top of one of the tallest mountains down into the neighboring valleys, creating a high plateau that is (usually) above the fog line. There are landing pads both for starships like yours and for airships that carry cargo to and from the settlements elsewhere on the planet. The port is nearly deserted, however; it is clear that they do not do much business here.`
 	outfitter "Ammo North"

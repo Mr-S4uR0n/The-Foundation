@@ -257,7 +257,7 @@ ship "Auxiliary"
 	explode "large explosion" 40
 	explode "huge explosion" 10
 	"final explode" "final explosion large"
-	description "The Auxiliary is the Republic Navy's logistical backbone. The size and durability of a capital ship but more cargo and passenger space than any other Navy ship, the Auxiliary is used whenever the Navy needs large amounts of troops or cargo transported with a guarantee that they'll reach the destination."
+	description "The Auxiliary is the Imperium Navy's logistical backbone. The size and durability of a capital ship but more cargo and passenger space than any other Navy ship, the Auxiliary is used whenever the Navy needs large amounts of troops or cargo transported with a guarantee that they'll reach the destination."
 	description "The Auxiliary was built with modularity in mind, allowing the ship to be fitted for more cargo or bunk space depending on the mission. This modularity makes the ship rather expensive to build, however, and therefore a rare sight to see."
 
 ship "Auxiliary" "Auxiliary (Cargo)"
@@ -1138,7 +1138,7 @@ ship "Combat Drone"
 	engine 8.5 28.5 0.9
 	gun 0 -29 "Beam Laser"
 	explode "tiny explosion" 15
-	description "Combat drones are pilotless attack ships used primarily by the Republic Navy. Although very weak and easy to destroy, they can be very effective in large numbers. Because drones do not need a cockpit, they can be filled entirely with equipment and solid metal, which makes their hulls stronger than other small ships."
+	description "Combat drones are pilotless attack ships used primarily by the Imperium Navy. Although very weak and easy to destroy, they can be very effective in large numbers. Because drones do not need a cockpit, they can be filled entirely with equipment and solid metal, which makes their hulls stronger than other small ships."
 	description "	Drones do not come equipped with a hyperdrive. You cannot carry a drone unless you have a ship in your fleet with a drone bay."
 
 
@@ -1343,7 +1343,7 @@ ship "Cruiser"
 	explode "large explosion" 40
 	explode "huge explosion" 10
 	"final explode" "final explosion large"
-	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
+	description "The Imperium Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
 
 
 
@@ -1561,7 +1561,7 @@ ship "Dropship"
 	leak "leak" 60 50
 	explode "tiny explosion" 15
 	explode "small explosion" 5
-	description "Dropships were designed with the Navy's Auxiliary in mind. Landed Auxiliaries often act as forward operating bases, so troops needing transport to another area often rely on their Dropships. This cramped and uncomfortable vessel is able to move a squad of Republic soldiers at great speed for its size."
+	description "Dropships were designed with the Navy's Auxiliary in mind. Landed Auxiliaries often act as forward operating bases, so troops needing transport to another area often rely on their Dropships. This cramped and uncomfortable vessel is able to move a squad of Imperium soldiers at great speed for its size."
 	description "	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay."
 
 
@@ -1612,7 +1612,7 @@ ship "Enforcer"
 	explode "tiny explosion" 8
 	explode "small explosion" 12
 	explode "medium explosion" 4
-	description `Prior to the formation of the galactic Republic, many star systems were owned by "governing corporate entities," with the vast majority of space being inaccessible to private citizens. The only exception to this rule were the pirate bands, whose few ships were often stolen or rebellious corporate fleets of their own, yet who had an outsized impact on interstellar trade. The necessity for corporations to protect their operations meant that Enforcer was one of the most common vessels used for security and defense. The ship boasts an armament of four gun ports and a turreted mount, all packed on a small but defensible frame that was powerful for its time.`
+	description `Prior to the formation of the galactic Imperium, many star systems were owned by "governing corporate entities," with the vast majority of space being inaccessible to private citizens. The only exception to this rule were the pirate bands, whose few ships were often stolen or rebellious corporate fleets of their own, yet who had an outsized impact on interstellar trade. The necessity for corporations to protect their operations meant that Enforcer was one of the most common vessels used for security and defense. The ship boasts an armament of four gun ports and a turreted mount, all packed on a small but defensible frame that was powerful for its time.`
 	description `	Although no longer on the market, the Enforcer finds itself in the possession of a small number of merchants and, ironically, various groups of pirates, as an aging combat ship easily outperformed by other light warships or even interceptors of a similar size.`
 
 
@@ -1949,7 +1949,7 @@ ship "Frigate"
 	explode "medium explosion" 24
 	explode "large explosion" 8
 	"final explode" "final explosion medium"
-	description "For centuries, the Frigate was the largest warship produced by the Republic Navy Yard, but now they seem quite small compared to a Cruiser or a Carrier. Armed with a variety of weapons, the Frigate is equally capable at fending off small fighters or bombarding larger ships. In its time it possessed relatively good maneuverability for a ship of its size, but now it sees continued use mostly due to the sheer number of them already built for service."
+	description "For centuries, the Frigate was the largest warship produced by the Imperium Navy Yard, but now they seem quite small compared to a Cruiser or a Carrier. Armed with a variety of weapons, the Frigate is equally capable at fending off small fighters or bombarding larger ships. In its time it possessed relatively good maneuverability for a ship of its size, but now it sees continued use mostly due to the sheer number of them already built for service."
 
 
 
@@ -2118,7 +2118,7 @@ ship "Hauler"
 	explode "medium explosion" 20
 	explode "large explosion" 5
 	"final explode" "final explosion medium"
-	description "Several centuries ago, in the early days of the Republic, the sudden increase in commerce and space travel led to high demand for cargo ships. Haulers were first created simply by bolting a cockpit and engine block onto a cargo container, and the basic design has not changed much since then."
+	description "Several centuries ago, in the early days of the Imperium, the sudden increase in commerce and space travel led to high demand for cargo ships. Haulers were first created simply by bolting a cockpit and engine block onto a cargo container, and the basic design has not changed much since then."
 
 
 
@@ -2487,7 +2487,7 @@ ship "Lance"
 	gun 13.5 -6.5 "Sidewinder Missile Pod"
 	explode "tiny explosion" 15
 	explode "small explosion" 5
-	description "The Lance is the primary fighter used by the Republic Navy. As with all fighters, it is weak by itself but very effective as part of a larger squadron."
+	description "The Lance is the primary fighter used by the Imperium Navy. As with all fighters, it is weak by itself but very effective as part of a larger squadron."
 	description "	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay."
 
 
@@ -2548,7 +2548,7 @@ ship "Leviathan"
 	explode "medium explosion" 24
 	explode "large explosion" 8
 	"final explode" "final explosion large"
-	description "The Betelgeuse Shipyards Leviathan has been in service since long before the Republic existed. Although considered today to be an outdated and clunky model, it is still a force to be reckoned with."
+	description "The Betelgeuse Shipyards Leviathan has been in service since long before the Imperium existed. Although considered today to be an outdated and clunky model, it is still a force to be reckoned with."
 
 
 
@@ -3190,7 +3190,7 @@ ship "Rainmaker"
 	explode "small explosion" 20
 	explode "medium explosion" 15
 	"final explode" "final explosion small"
-	description "The Rainmaker is a missile boat built in the Republic Navy Yard. It comes equipped with four missile launchers and enough ammunition to destroy even ships many times its size. Because of their lack of maneuverability and relatively light shielding, Rainmakers serve best as long-range attack ships, and once their missile supply is spent, they are relatively useless in combat."
+	description "The Rainmaker is a missile boat built in the Imperium Navy Yard. It comes equipped with four missile launchers and enough ammunition to destroy even ships many times its size. Because of their lack of maneuverability and relatively light shielding, Rainmakers serve best as long-range attack ships, and once their missile supply is spent, they are relatively useless in combat."
 
 
 
@@ -3467,7 +3467,7 @@ ship "Scrapper"
 	leak "leak" 60 50
 	explode "tiny explosion" 10
 	explode "small explosion" 5
-	description "Rather than being a specific model of ship, the Scrappers are instead a family of vessels cobbled together from the remains of broken shuttles. On the rare occasion that Republic authorities bother to recognize their existence, Scrappers are treated as almost-illegal, patent-infringing death traps. Despite this, these ships are where many captains (and pirates) from poorer backgrounds get their start."
+	description "Rather than being a specific model of ship, the Scrappers are instead a family of vessels cobbled together from the remains of broken shuttles. On the rare occasion that Imperium authorities bother to recognize their existence, Scrappers are treated as almost-illegal, patent-infringing death traps. Despite this, these ships are where many captains (and pirates) from poorer backgrounds get their start."
 
 
 
@@ -3896,7 +3896,7 @@ ship "Surveillance Drone"
 	engine -3 29
 	engine 3 29
 	explode "tiny explosion" 15
-	description "Surveillance drones are unarmed drones used by the Republic navy to scan ships and planets in a star system."
+	description "Surveillance drones are unarmed drones used by the Imperium navy to scan ships and planets in a star system."
 	description "	Drones do not come equipped with a hyperdrive. You cannot carry a drone unless you have a ship in your fleet with a drone bay."
 
 

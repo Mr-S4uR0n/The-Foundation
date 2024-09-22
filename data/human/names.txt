@@ -2489,7 +2489,7 @@ phrase "standalone civilian ship names"
 		"Patino"
 		"Patoka"
 		"Paul Bunyan"
-		"Pax Republica"
+		"Pax Imperiuma"
 		"Pecos"
 		"Pequod"
 		"Pharaoh"
@@ -3078,7 +3078,7 @@ phrase "deep science vessel"
 
 # Law enforcement names:
 
-phrase "republic capital"
+phrase "Imperium capital"
 	word
 		"R.N.S. "
 	phrase
@@ -3634,7 +3634,7 @@ phrase "greek and roman figures"
 		"Vespasian"
 		"Virgil"
 
-phrase "republic small"
+phrase "Imperium small"
 	word
 		"R.N.S. "
 	phrase
@@ -3950,7 +3950,7 @@ phrase "syndicate small"
 
 # Fighter names:
 
-phrase "republic fighter"
+phrase "Imperium fighter"
 	word
 		"Red"
 		"Orange"

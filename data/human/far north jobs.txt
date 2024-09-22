@@ -90,10 +90,10 @@ mission "Navy resupply [0]"
 	to offer
 		random < 2
 	source
-		government "Republic" "Syndicate"
+		government "Imperium" "Syndicate"
 		attributes outfitter factory
 	destination
-		government "Republic"
+		government "Imperium"
 		distance 2 10
 		attributes north
 		attributes military outfitter

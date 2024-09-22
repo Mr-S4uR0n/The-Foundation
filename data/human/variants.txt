@@ -1351,7 +1351,7 @@ ship "Cruiser" "Cruiser (Mark II)"
 	turret "Heavy Anti-Missile Turret"
 
 
-ship "Cruiser" "Cruiser (Republic Intelligence)"
+ship "Cruiser" "Cruiser (Imperium Intelligence)"
 	outfits
 		"Typhoon Launcher" 2
 		"Typhoon Torpedo" 60
@@ -1977,7 +1977,7 @@ ship "Freighter" "Freighter (Hai Trafficker)"
 
 
 
-ship "Frigate" "Frigate (Republic Intelligence)"
+ship "Frigate" "Frigate (Imperium Intelligence)"
 	outfits
 		"A370 Atomic Thruster"
 		"Blaster Turret" 2

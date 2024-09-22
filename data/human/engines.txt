@@ -188,7 +188,7 @@ outfit "X4700 Ion Thruster"
 	"flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"flare sound" "ion large"
-	description "The X4700 Ion Thruster was developed when the Republic Navy began building warships so large that the X3700 was not sufficient for them. It allows even a capital ship to move at a respectable speed."
+	description "The X4700 Ion Thruster was developed when the Imperium Navy began building warships so large that the X3700 was not sufficient for them. It allows even a capital ship to move at a respectable speed."
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X5700 Ion Thruster"

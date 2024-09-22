@@ -251,7 +251,7 @@ mission "Dangerous Journey"
 		category "Light Freighter" "Heavy Freighter"
 		not attributes "automaton"
 	destination
-		government "Republic" "Syndicate" "Free Worlds"
+		government "Imperium" "Syndicate" "Free Worlds"
 		attributes "frontier"
 		distance 2 3
 	cargo random 5 2 .1
@@ -312,7 +312,7 @@ mission "Assisting Free Worlds"
 		payment 150000
 		dialog phrase "generic pirate attack payment dialog"
 
-mission "Assisting Republic"
+mission "Assisting Imperium"
 	assisting
 	repeat
 	minor
@@ -322,11 +322,11 @@ mission "Assisting Republic"
 		"combat rating" > 100
 		random < 5
 	source
-		government "Republic"
+		government "Imperium"
 		not category "Fighter" "Drone"
 		not attributes "automaton"
 	destination
-		government "Republic"
+		government "Imperium"
 		distance 2 4
 	on offer
 		conversation "assisting law enforcement"
@@ -337,10 +337,10 @@ mission "Assisting Republic"
 		fleet "Large Northern Pirates" 2
 		fleet "Small Northern Pirates"
 	npc
-		government "Republic"
+		government "Imperium"
 		personality heroic staying
 		system destination
-		fleet "Small Republic" 2
+		fleet "Small Imperium" 2
 	on complete
 		payment 150000
 		dialog phrase "generic pirate attack payment dialog"
@@ -497,7 +497,7 @@ mission "Pirate Mutiny"
 		category "Medium Warship" "Heavy Warship"
 		not attributes "automaton"
 	destination
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Independent"
 		distance 2 4
 	passengers 10 20
 	on offer

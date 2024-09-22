@@ -85,7 +85,7 @@ mission "Mystery Cube Delivery Job Safe [0]"
 		attributes "deep"
 	destination
 		distance 7 16
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
 		not attributes "station"
 	cargo "mystery package" 1
 	to offer
@@ -109,7 +109,7 @@ mission "Mystery Cube Delivery Job Safe [1]"
 		attributes "deep"
 	destination
 		distance 9 20
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
 		not attributes "station"
 	cargo "mystery package" 1
 	to offer
@@ -132,7 +132,7 @@ mission "Mystery Cube Delivery Job [0]"
 		attributes "deep"
 	destination
 		distance 7 16
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
 		not attributes "station"
 	cargo "mystery package" 1
 	to offer
@@ -164,7 +164,7 @@ mission "Mystery Cube Delivery Job [1]"
 		attributes "deep"
 	destination
 		distance 9 20
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
 		not attributes "station"
 	cargo "mystery package" 1
 	to offer
@@ -196,7 +196,7 @@ mission "Mystery Cube Delivery Job [2]"
 		attributes "deep"
 	destination
 		distance 9 20
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
 		not attributes "station"
 	cargo "mystery package" 1
 	to offer
@@ -228,7 +228,7 @@ mission "Mystery Cube Delivery Job [3]"
 		attributes "deep"
 	destination
 		distance 9 20
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
 		not attributes "station"
 	cargo "mystery package" 1
 	to offer
@@ -260,7 +260,7 @@ mission "Mystery Cube Delivery Job Station"
 		attributes "deep"
 	destination
 		distance 9 20
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
 		attributes "station"
 	cargo "mystery package" 1
 	to offer
@@ -292,7 +292,7 @@ mission "Mystery Cube Retrieval Job"
 		attributes "deep"
 	stopover
 		distance 9 20
-		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
+		government "Imperium" "Free Worlds" "Syndicate" "Neutral" "Hai" "Quarg"
 		attributes "spaceport"
 		not attributes "station"
 	cargo "mystery package" 1
