@@ -1346,9 +1346,9 @@ fleet "Large Militia"
 		"Hawk" 2
 		"Sparrow" 3
 
-fleet "Small Republic"
-	government "Republic"
-	names "republic small"
+fleet "Small Imperium"
+	government "Imperium"
+	names "Imperium small"
 	cargo 0
 	personality
 		heroic opportunistic
@@ -1366,11 +1366,11 @@ fleet "Small Republic"
 	variant 6
 		"Gunboat"
 
-fleet "Large Republic"
-	government "Republic"
-	names "republic capital"
+fleet "Large Imperium"
+	government "Imperium"
+	names "Imperium capital"
 	fighters
-		names "republic fighter"
+		names "Imperium fighter"
 	cargo 0
 	personality
 		heroic opportunistic
@@ -1408,11 +1408,11 @@ fleet "Large Republic"
 		"Rainmaker" 2
 		"Gunboat"
 
-fleet "Republic Logistics"
-	government "Republic"
-	names "republic capital"
+fleet "Imperium Logistics"
+	government "Imperium"
+	names "Imperium capital"
 	fighters
-		names "republic fighter"
+		names "Imperium fighter"
 	cargo 3
 	personality
 		heroic opportunistic
@@ -1462,10 +1462,10 @@ fleet "Republic Logistics"
 		"Combat Drone" 8
 
 fleet "Navy Surveillance"
-	government "Republic"
-	names "republic capital"
+	government "Imperium"
+	names "Imperium capital"
 	fighters
-		names "republic fighter"
+		names "Imperium fighter"
 	cargo 0
 	personality
 		surveillance opportunistic
@@ -1663,7 +1663,7 @@ fleet "Large Deep Security"
 
 fleet "Small Oathkeeper"
 	government "Navy (Oathkeeper)"
-	names "republic small"
+	names "Imperium small"
 	cargo 0
 	personality
 		heroic opportunistic
@@ -1683,9 +1683,9 @@ fleet "Small Oathkeeper"
 
 fleet "Large Oathkeeper"
 	government "Navy (Oathkeeper)"
-	names "republic capital"
+	names "Imperium capital"
 	fighters
-		names "republic fighter"
+		names "Imperium fighter"
 	cargo 0
 	personality
 		heroic opportunistic
@@ -3460,10 +3460,10 @@ fleet "Hired Guns"
 
 # The Navy forces which blockade the wormhole during the Hai crisis.
 fleet "Human Wormhole Guards"
-	government "Republic that won't enter wormhole"
-	names "republic capital"
+	government "Imperium that won't enter wormhole"
+	names "Imperium capital"
 	fighters
-		names "republic fighter"
+		names "Imperium fighter"
 	cargo 0
 	personality
 		heroic opportunistic

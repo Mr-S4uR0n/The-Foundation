@@ -89,7 +89,7 @@ system Acamar
 	trade Plastic 483
 	fleet "Large Core Merchants" 3000
 	fleet "Small Core Merchants" 2000
-	fleet "Small Republic" 3600
+	fleet "Small Imperium" 3600
 	fleet "Small Syndicate" 3200
 	fleet "Derelict Core" 30000
 	object
@@ -152,7 +152,7 @@ system Achernar
 	fleet "Small Syndicate" 500
 	fleet "Small Core Merchants" 300
 	fleet "Human Miners" 3000
-	fleet "Republic Logistics" 6000
+	fleet "Imperium Logistics" 6000
 	object
 		sprite star/g5
 		period 10
@@ -230,7 +230,7 @@ system Acnanjo
 
 system Acrux
 	pos -808 192
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 585
 	habitable 585
@@ -311,7 +311,7 @@ system Acrux
 
 system Actannka
 	pos 1016.73 -706.867
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 3200
 	habitable 3200
@@ -385,7 +385,7 @@ system Actannka
 
 system Adhara
 	pos -669 -200
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 680
 	habitable 680
@@ -1167,7 +1167,7 @@ system "Al Dhanab"
 	fleet "Large Core Merchants" 400
 	fleet "Small Syndicate" 1000
 	fleet "Large Syndicate" 800
-	fleet "Republic Logistics" 5300
+	fleet "Imperium Logistics" 5300
 	fleet "Small Core Pirates" 2000
 	fleet "Large Core Pirates" 3000
 	fleet "Human Miners" 2000
@@ -1251,7 +1251,7 @@ system "Al Hurr"
 
 system Albaldah
 	pos -350 484
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 560
 	habitable 560
@@ -1326,7 +1326,7 @@ system Albaldah
 
 system Albireo
 	pos -270 503
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 760
 	habitable 760
@@ -1452,7 +1452,7 @@ system Alcyone
 
 system Aldebaran
 	pos -356 -26
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 625
 	habitable 625
@@ -1475,8 +1475,8 @@ system Aldebaran
 	fleet "Small Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 1000
-	fleet "Small Republic" 800
-	fleet "Large Republic" 400
+	fleet "Small Imperium" 800
+	fleet "Large Imperium" 400
 	object
 		sprite star/g5
 		period 10
@@ -1565,7 +1565,7 @@ system Alderamin
 
 system Aldhibain
 	pos -659 451
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 500
 	habitable 450
@@ -1627,7 +1627,7 @@ system Aldhibain
 
 system Aleit
 	pos 967.604 -690.722
-	government Republic
+	government Imperium
 	attributes "ringworld"
 	arrival 700
 	departure 1000
@@ -1819,7 +1819,7 @@ system Algenib
 
 system Algieba
 	pos -691 -52
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 2720
 	habitable 2720
@@ -1846,8 +1846,8 @@ system Algieba
 	trade Medical 621
 	trade Metal 251
 	trade Plastic 476
-	fleet "Small Republic" 1400
-	fleet "Large Republic" 5000
+	fleet "Small Imperium" 1400
+	fleet "Large Imperium" 5000
 	fleet "Small Northern Merchants" 400
 	fleet "Large Northern Merchants" 600
 	object
@@ -1953,7 +1953,7 @@ system Algol
 
 system Algorel
 	pos -631 145
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 370
@@ -1982,7 +1982,7 @@ system Algorel
 	fleet "Small Southern Merchants" 600
 	fleet "Large Southern Merchants" 900
 	fleet "Small Militia" 2000
-	fleet "Small Republic" 3000
+	fleet "Small Imperium" 3000
 	fleet "Small Southern Pirates" 1600
 	fleet "Large Southern Pirates" 5000
 	object
@@ -2020,7 +2020,7 @@ system Algorel
 
 system Alheka
 	pos -350 -271
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 1080
 	habitable 1080
@@ -2048,9 +2048,9 @@ system Alheka
 	trade Plastic 477
 	fleet "Small Northern Merchants" 1000
 	fleet "Large Northern Merchants" 3000
-	fleet "Small Republic" 1500
-	fleet "Large Republic" 4400
-	fleet "Republic Logistics" 4600
+	fleet "Small Imperium" 1500
+	fleet "Large Imperium" 4400
+	fleet "Imperium Logistics" 4600
 	fleet "Small Northern Pirates" 2000
 	fleet "Large Northern Pirates" 2000
 	fleet "Human Miners" 3000
@@ -2081,7 +2081,7 @@ system Alheka
 
 system Alhena
 	pos -430 -80
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 995
 	habitable 995
@@ -2109,9 +2109,9 @@ system Alhena
 	trade Plastic 415
 	fleet "Small Northern Merchants" 500
 	fleet "Large Northern Merchants" 700
-	fleet "Small Republic" 1100
-	fleet "Large Republic" 1600
-	fleet "Republic Logistics" 3000
+	fleet "Small Imperium" 1100
+	fleet "Large Imperium" 1600
+	fleet "Imperium Logistics" 3000
 	object
 		sprite star/g5
 		distance 34.3622
@@ -2152,7 +2152,7 @@ system Alhena
 
 system Alioth
 	pos -620 315
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 450
@@ -2206,7 +2206,7 @@ system Alioth
 
 system Alkaid
 	pos -825 318
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 1080
 	habitable 1080
@@ -2304,7 +2304,7 @@ system Almaaz
 	trade Plastic 308
 	fleet "Small Northern Pirates" 500
 	fleet "Large Northern Pirates" 600
-	fleet "Large Republic" 4000
+	fleet "Large Imperium" 4000
 	object
 		sprite star/f-giant
 		period 10
@@ -2456,7 +2456,7 @@ system Alnair
 
 system Alnasl
 	pos -553 380
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1375
 	habitable 1375
@@ -2549,7 +2549,7 @@ system Alnilam
 	trade Plastic 334
 	fleet "Small Northern Pirates" 500
 	fleet "Large Northern Pirates" 700
-	fleet "Large Republic" 10000
+	fleet "Large Imperium" 10000
 	object
 		sprite star/f5
 		period 10
@@ -2600,7 +2600,7 @@ system Alnilam
 
 system Alnitak
 	pos -331 -412
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 1310
 	habitable 1310
@@ -2627,9 +2627,9 @@ system Alnitak
 	trade Plastic 452
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 5000
-	fleet "Small Republic" 3000
-	fleet "Large Republic" 4000
-	fleet "Republic Logistics" 6000
+	fleet "Small Imperium" 3000
+	fleet "Large Imperium" 4000
+	fleet "Imperium Logistics" 6000
 	object
 		sprite star/f8
 		period 10
@@ -2652,7 +2652,7 @@ system Alnitak
 
 system Alniyat
 	pos -691 501
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 560
 	habitable 560
@@ -2726,7 +2726,7 @@ system Alniyat
 
 system "Alpha Arae"
 	pos -481 394
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 995
 	habitable 995
@@ -2799,7 +2799,7 @@ system "Alpha Arae"
 
 system "Alpha Centauri"
 	pos -429 125
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 1190
 	habitable 1190
@@ -2825,8 +2825,8 @@ system "Alpha Centauri"
 	trade Plastic 253
 	fleet "Small Northern Merchants" 800
 	fleet "Large Northern Merchants" 1000
-	fleet "Small Republic" 2000
-	fleet "Large Republic" 6000
+	fleet "Small Imperium" 2000
+	fleet "Large Imperium" 6000
 	object
 		sprite star/g3
 		distance 38.238
@@ -2917,7 +2917,7 @@ system "Alpha Hydri"
 
 system Alphard
 	pos -588 -47
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 1115
 	habitable 1115
@@ -2949,9 +2949,9 @@ system Alphard
 	fleet "Large Northern Merchants" 900
 	fleet "Paradise Merchants" 1500
 	fleet "Small Deep Merchants" 2000
-	fleet "Small Republic" 3000
-	fleet "Large Republic" 6000
-	fleet "Republic Logistics" 6000
+	fleet "Small Imperium" 3000
+	fleet "Large Imperium" 6000
+	fleet "Imperium Logistics" 6000
 	fleet "Human Miners" 2000
 	object
 		sprite star/g5
@@ -2985,7 +2985,7 @@ system Alphard
 
 system Alphecca
 	pos -546 308
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1450
 	habitable 1450
@@ -3171,7 +3171,7 @@ system Alpherg
 
 system Altair
 	pos -357 161
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 995
 	habitable 995
@@ -3195,9 +3195,9 @@ system Altair
 	fleet "Large Core Merchants" 600
 	fleet "Small Northern Merchants" 1000
 	fleet "Large Northern Merchants" 3000
-	fleet "Small Republic" 3000
-	fleet "Large Republic" 6000
-	fleet "Republic Logistics" 6000
+	fleet "Small Imperium" 3000
+	fleet "Large Imperium" 6000
+	fleet "Imperium Logistics" 6000
 	fleet "Small Syndicate" 9000
 	object
 		sprite star/g5
@@ -3235,7 +3235,7 @@ system Altair
 
 system Aludra
 	pos -606 -374
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 500
 	habitable 450
@@ -3534,7 +3534,7 @@ system Antevorta
 
 system Arcturus
 	pos -589 226
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 370
@@ -3699,7 +3699,7 @@ system Arneb
 	trade Plastic 358
 	fleet "Small Northern Pirates" 400
 	fleet "Large Northern Pirates" 500
-	fleet "Large Republic" 15000
+	fleet "Large Imperium" 15000
 	object
 		sprite star/f5
 		period 10
@@ -3726,7 +3726,7 @@ system Arneb
 
 system Ascella
 	pos -376 328
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 740
 	habitable 740
@@ -3793,7 +3793,7 @@ system Ascella
 
 system Asikafarnut
 	pos 253.431 -584.812
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 320
 	belt 1342
@@ -3858,7 +3858,7 @@ system Asikafarnut
 
 system Asio
 	pos 807 -629.8
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 320
 	belt 1478
@@ -3904,7 +3904,7 @@ system Asio
 
 system Aspidiske
 	pos -690 -282
-	government Republic
+	government Imperium
 	attributes "bright star" "deep" "notable star" "supergiant star"
 	arrival 5000
 	habitable 11850
@@ -4024,7 +4024,7 @@ system Atik
 
 system Atria
 	pos -551 532
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 500
 	habitable 230
@@ -4091,7 +4091,7 @@ system Atria
 
 system Auhru
 	pos 1007.41 -524.011
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star" 
 	arrival 5000
 	habitable 8650
@@ -4135,7 +4135,7 @@ system Auhru
 
 system Avior
 	pos -658 -317
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 1215
 	habitable 1215
@@ -4207,7 +4207,7 @@ system Avior
 
 system "Avo Chigo"
 	pos 242.817 -205.83
-	government "Republic"
+	government "Imperium"
 	attributes "bright star" "notable star"
 	arrival 5000
 	habitable 5600
@@ -4387,7 +4387,7 @@ system Bellatrix
 
 system "Beta Lupi"
 	pos -851 417
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 625
 	habitable 625
@@ -4448,7 +4448,7 @@ system "Beta Lupi"
 
 system Betelgeuse
 	pos -384 -322
-	government Republic
+	government Imperium
 	attributes "north" "notable star" "supergiant star"
 	arrival 3450
 	habitable 3450
@@ -4477,9 +4477,9 @@ system Betelgeuse
 	trade Plastic 470
 	fleet "Small Northern Merchants" 2000
 	fleet "Large Northern Merchants" 800
-	fleet "Small Republic" 2500
-	fleet "Large Republic" 3500
-	fleet "Republic Logistics" 6000
+	fleet "Small Imperium" 2500
+	fleet "Large Imperium" 3500
+	fleet "Imperium Logistics" 6000
 	fleet "Large Northern Pirates" 4000
 	fleet "Human Miners" 3000
 	object
@@ -4528,7 +4528,7 @@ system Betelgeuse
 
 system Boral
 	pos -502 331
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 230
@@ -4595,7 +4595,7 @@ system Boral
 
 system "Bore Fah"
 	pos 71.7761 -592.536
-	government Republic
+	government Imperium
 	arrival 625
 	habitable 625
 	belt 1823
@@ -4650,7 +4650,7 @@ system "Bore Fah"
 
 system "Bosuno Le"
 	pos 335.9 -152.3
-	government "Republic"
+	government "Imperium"
 	attributes "bright star" "notable star"
 	arrival 3400
 	habitable 3400
@@ -4703,7 +4703,7 @@ system "Bosuno Le"
 
 system "Bote Asu"
 	pos 8.87418 -572.768
-	government Republic
+	government Imperium
 	arrival 3180
 	habitable 3180
 	belt 1753
@@ -4794,7 +4794,7 @@ system "Bote Asu"
 
 system "Bunri Lemeta"
 	pos 317.9 -94.3
-	government "Republic"
+	government "Imperium"
 	attributes "bright star" "notable star"
 	arrival 3650
 	habitable 3650
@@ -4935,7 +4935,7 @@ system Caeculus
 
 system Canopus
 	pos -421 -225
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 500
 	habitable 230
@@ -4958,9 +4958,9 @@ system Canopus
 	trade Plastic 485
 	fleet "Small Northern Merchants" 900
 	fleet "Large Northern Merchants" 700
-	fleet "Small Republic" 1100
-	fleet "Large Republic" 2500
-	fleet "Republic Logistics" 4500
+	fleet "Small Imperium" 1100
+	fleet "Large Imperium" 2500
+	fleet "Imperium Logistics" 4500
 	object
 		sprite star/m3
 		period 10
@@ -4983,7 +4983,7 @@ system Canopus
 
 system Capella
 	pos -378 -13
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 500
 	habitable 450
@@ -5014,8 +5014,8 @@ system Capella
 	fleet "Small Northern Merchants" 500
 	fleet "Large Northern Merchants" 800
 	fleet "Paradise Merchants" 700
-	fleet "Small Republic" 800
-	fleet "Large Republic" 1400
+	fleet "Small Imperium" 800
+	fleet "Large Imperium" 1400
 	fleet "Human Miners" 2000
 	object
 		sprite star/k3
@@ -5121,7 +5121,7 @@ system Caph
 
 system Cardax
 	pos -211 -215
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 1705
 	habitable 1705
@@ -5151,8 +5151,8 @@ system Cardax
 	fleet "Small Northern Pirates" 1000
 	fleet "Large Northern Pirates" 3000
 	fleet "Small Core Pirates" 3000
-	fleet "Small Republic" 2000
-	fleet "Large Republic" 5000
+	fleet "Small Imperium" 2000
+	fleet "Large Imperium" 5000
 	fleet "Derelict Northern" 30000
 	object
 		sprite star/g0
@@ -5258,7 +5258,7 @@ system Cardea
 
 system Castor
 	pos -452 -17
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 1570
 	habitable 1570
@@ -5289,9 +5289,9 @@ system Castor
 	fleet "Small Northern Merchants" 600
 	fleet "Large Northern Merchants" 800
 	fleet "Paradise Merchants" 800
-	fleet "Small Republic" 1000
-	fleet "Large Republic" 500
-	fleet "Republic Logistics" 2000
+	fleet "Small Imperium" 1000
+	fleet "Large Imperium" 500
+	fleet "Imperium Logistics" 2000
 	object
 		sprite star/g0
 		distance 36.2152
@@ -5344,7 +5344,7 @@ system Castor
 
 system Cebalrai
 	pos -461 282
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 625
 	habitable 625
@@ -5406,7 +5406,7 @@ system Cebalrai
 
 system Celeborim
 	pos 181.431 -633.812
-	government Republic
+	government Imperium
 	
 	arrival 500
 	habitable 320
@@ -5523,7 +5523,7 @@ system Chikatip
 
 system Chimitarp
 	pos 150.431 -287.812
-	government Republic
+	government Imperium
 	
 	arrival 915
 	habitable 915
@@ -5968,7 +5968,7 @@ system Convector
 
 system "Cor Caroli"
 	pos -682 201
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1080
 	habitable 1080
@@ -5999,7 +5999,7 @@ system "Cor Caroli"
 	fleet "Small Southern Merchants" 700
 	fleet "Large Southern Merchants" 1300
 	fleet "Small Southern Pirates" 2000
-	fleet "Small Republic" 10000
+	fleet "Small Imperium" 10000
 	fleet "Small Militia" 7000
 	fleet "Human Miners" 3000
 	object
@@ -6133,7 +6133,7 @@ system Cshudlye
 
 system "Cura Dic"
 	pos 340.667 -859.667
-	government Republic
+	government Imperium
 	arrival 3880
 	habitable 3880
 	belt 1144
@@ -6222,7 +6222,7 @@ system Currus
 
 system "Da Ent"
 	pos -6.22391 -462.536
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 230
 	belt 1161
@@ -6288,7 +6288,7 @@ system "Da Ent"
 
 system "Da Lest"
 	pos -23.2239 -413.536
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 320
 	belt 1108
@@ -6343,7 +6343,7 @@ system "Da Lest"
 
 system Dabih
 	pos -253 427
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 680
 	habitable 680
@@ -6403,7 +6403,7 @@ system Dabih
 
 system Danoa
 	pos -239 -321
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 500
 	habitable 135
@@ -6433,7 +6433,7 @@ system Danoa
 	fleet "Small Northern Merchants" 15000
 	fleet "Small Northern Pirates" 5000
 	fleet "Large Northern Pirates" 16000
-	fleet "Large Republic" 30000
+	fleet "Large Imperium" 30000
 	fleet "Human Miners" 1600
 	fleet "Derelict Pirate" 15000
 	object
@@ -7217,7 +7217,7 @@ system "Delta Capricorni"
 
 system "Delta Sagittarii"
 	pos -414 416
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 370
@@ -7285,7 +7285,7 @@ system "Delta Sagittarii"
 
 system "Delta Velorum"
 	pos -740 90
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1080
 	habitable 1080
@@ -7317,7 +7317,7 @@ system "Delta Velorum"
 	fleet "Large Southern Merchants" 3000
 	fleet "Small Southern Pirates" 2000
 	fleet "Large Southern Pirates" 5000
-	fleet "Small Republic" 12000
+	fleet "Small Imperium" 12000
 	fleet "Human Miners" 2000
 	object
 		sprite star/g0
@@ -7345,7 +7345,7 @@ system "Delta Velorum"
 
 system Deneb
 	pos -348 225
-	government Republic
+	government Imperium
 	arrival 625
 	habitable 625
 	belt 1890
@@ -7399,7 +7399,7 @@ system Deneb
 
 system Denebola
 	pos -478 70
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 560
 	habitable 560
@@ -7428,8 +7428,8 @@ system Denebola
 	trade Plastic 253
 	fleet "Small Northern Merchants" 800
 	fleet "Large Northern Merchants" 2000
-	fleet "Small Republic" 1000
-	fleet "Large Republic" 2000
+	fleet "Small Imperium" 1000
+	fleet "Large Imperium" 2000
 	object
 		sprite star/k5
 		distance 25.2358
@@ -7712,7 +7712,7 @@ system Dixere
 
 system Dokdobaru
 	pos -21.5695 -241.812
-	government Republic
+	government Imperium
 	arrival 700
 	departure 1000
 	habitable 700
@@ -7879,7 +7879,7 @@ system Dom'us
 
 system Dschubba
 	pos -598 501
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 505
 	habitable 505
@@ -7954,7 +7954,7 @@ system Dschubba
 
 system Dubhe
 	pos -577 -103
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 500
 	habitable 320
@@ -8012,7 +8012,7 @@ system Dubhe
 
 system "Due Yoot"
 	pos -167.547 -426.683
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 230
 	belt 1854
@@ -8245,7 +8245,7 @@ system E-9182
 
 system Eber
 	pos -532 406
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 950
 	habitable 950
@@ -8454,7 +8454,7 @@ system Egeria
 
 system "Ehma Ti"
 	pos 39.1085 -749.244
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 490
 	belt 1094
@@ -8735,7 +8735,7 @@ system Ekuarik
 
 system "Elabi Choati"
 	pos 205.2 -175.9
-	government Republic
+	government Imperium
 	attributes "carbon" "notable star"
 	arrival 3000
 	habitable 3000
@@ -8826,7 +8826,7 @@ system Elifennka
 
 system Elnath
 	pos -288 -77
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 1715
 	habitable 1715
@@ -8854,8 +8854,8 @@ system Elnath
 	fleet "Small Northern Merchants" 4000
 	fleet "Large Northern Merchants" 9000
 	fleet "Paradise Merchants" 8000
-	fleet "Small Republic" 7000
-	fleet "Large Republic" 20000
+	fleet "Small Imperium" 7000
+	fleet "Large Imperium" 20000
 	fleet "Small Northern Pirates" 5000
 	fleet "Large Northern Pirates" 18000
 	object
@@ -8893,7 +8893,7 @@ system Elnath
 
 system "Elo Chigo"
 	pos 170.2 -121.8
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 3000
 	habitable 3000
@@ -8949,7 +8949,7 @@ system "Elo Chigo"
 
 system Eltanin
 	pos -328 433
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 450
@@ -9010,7 +9010,7 @@ system Eltanin
 
 system Empeles
 	pos 668.174 -400.789
-	government Republic
+	government Imperium
 	arrival 700
 	habitable 700
 	belt 1416
@@ -9052,7 +9052,7 @@ system Empeles
 
 system Eneremprukt
 	pos 311.431 -448.812
-	government Republic
+	government Imperium
 	
 	arrival 500
 	habitable 490
@@ -9109,7 +9109,7 @@ system Eneremprukt
 
 system "Eneva Katta"
 	pos 193 -27
-	government Republic
+	government Imperium
 	attributes "giant star" "notable star"
 	arrival 4050
 	habitable 4050
@@ -9165,7 +9165,7 @@ system "Eneva Katta"
 
 system Enif
 	pos -177 498
-	government Republic
+	government Imperium
 	attributes "ringworld" "south"
 	arrival 700
 	departure 1000
@@ -9302,7 +9302,7 @@ system Eogho
 
 system "Epsilon Leonis"
 	pos -619 -229
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 1450
 	habitable 1450
@@ -9333,7 +9333,7 @@ system "Epsilon Leonis"
 	fleet "Small Deep Merchants" 1600
 	fleet "Large Deep Security" 6000
 	fleet "Large Deep Merchants" 2500
-	fleet "Republic Logistics" 6000
+	fleet "Imperium Logistics" 6000
 	object
 		sprite star/g0
 		distance 27.7268
@@ -9411,7 +9411,7 @@ system Equus
 
 system "Era Natta"
 	pos 129.2 -134.8
-	government Republic
+	government Imperium
 	arrival 2200
 	habitable 2200
 	belt 1500
@@ -9469,7 +9469,7 @@ system "Era Natta"
 
 system "Erabu Lemeta"
 	pos 284.9 -136.3
-	government "Republic"
+	government "Imperium"
 	attributes "bright star" "notable star"
 	arrival 3650
 	habitable 3650
@@ -9536,7 +9536,7 @@ system "Erabu Lemeta"
 
 system "Eragaru Le"
 	pos 302.817 -185.83
-	government "Republic"
+	government "Imperium"
 	attributes "bright star" "notable star"
 	arrival 3650
 	habitable 3650
@@ -9606,7 +9606,7 @@ system "Eragaru Le"
 
 system "Erba Yle"
 	pos 1001.69 -488.05
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 320
 	belt 1204
@@ -9662,7 +9662,7 @@ system "Erba Yle"
 
 system Eshkoshtar
 	pos 156.431 -381.812
-	government Republic
+	government Imperium
 	
 	arrival 810
 	habitable 810
@@ -9801,7 +9801,7 @@ system Esix
 
 system Eteron
 	pos -330 33
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 500
 	habitable 135
@@ -9829,8 +9829,8 @@ system Eteron
 	trade Plastic 380
 	fleet "Small Northern Merchants" 1000
 	fleet "Large Northern Merchants" 1500
-	fleet "Small Republic" 2000
-	fleet "Large Republic" 4000
+	fleet "Small Imperium" 2000
+	fleet "Large Imperium" 4000
 	fleet "Small Northern Pirates" 1000
 	fleet "Human Miners" 2000
 	fleet "Derelict Northern" 30000
@@ -9931,7 +9931,7 @@ system Evrae
 
 system "Fah Root"
 	pos -264.065 -400.135
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 490
 	belt 1057
@@ -9994,7 +9994,7 @@ system "Fah Root"
 
 system "Fah Soom"
 	pos -179.891 -335.011
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 425
 	belt 1185
@@ -10054,7 +10054,7 @@ system "Fah Soom"
 
 system Fala
 	pos -690 64
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1250
 	habitable 1250
@@ -10082,7 +10082,7 @@ system Fala
 	trade Plastic 441
 	fleet "Small Northern Merchants" 1600
 	fleet "Large Northern Merchants" 3000
-	fleet "Small Republic" 4000
+	fleet "Small Imperium" 4000
 	fleet "Small Northern Pirates" 2000
 	fleet "Large Northern Pirates" 4000
 	fleet "Human Miners" 2000
@@ -10270,7 +10270,7 @@ system Farinus
 
 system Faronektu
 	pos 292.431 -309.812
-	government Republic
+	government Imperium
 	
 	arrival 1080
 	habitable 1080
@@ -10649,7 +10649,7 @@ system Feroteri
 
 system Ferukistek
 	pos 307.431 -515.812
-	government Republic
+	government Imperium
 	
 	arrival 500
 	habitable 490
@@ -10704,7 +10704,7 @@ system Ferukistek
 
 system Fingol
 	pos -482 113
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 500
 	habitable 135
@@ -10729,8 +10729,8 @@ system Fingol
 	trade Metal 416
 	trade Plastic 321
 	fleet "Small Northern Merchants" 1200
-	fleet "Small Republic" 2000
-	fleet "Large Republic" 3000
+	fleet "Small Imperium" 2000
+	fleet "Large Imperium" 3000
 	fleet "Small Northern Pirates" 2000
 	fleet "Human Miners" 3000
 	fleet "Derelict Northern" 10000
@@ -10793,7 +10793,7 @@ system Fomalhaut
 	fleet "Large Core Merchants" 1200
 	fleet "Small Syndicate" 5000
 	fleet "Large Syndicate" 10000
-	fleet "Republic Logistics" 3300
+	fleet "Imperium Logistics" 3300
 	object
 		sprite star/k3
 		period 10
@@ -11219,7 +11219,7 @@ system G-819
 
 system Gacrux
 	pos -713 184
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 530
 	habitable 530
@@ -11247,7 +11247,7 @@ system Gacrux
 	fleet "Large Southern Merchants" 5000
 	fleet "Small Southern Pirates" 1000
 	fleet "Large Southern Pirates" 3000
-	fleet "Small Republic" 15000
+	fleet "Small Imperium" 15000
 	fleet "Derelict Northern" 30000
 	object
 		sprite star/k8
@@ -11350,7 +11350,7 @@ system "Gamma Cassiopeiae"
 
 system "Gamma Corvi"
 	pos -906 64
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 1530
 	habitable 1530
@@ -11464,7 +11464,7 @@ system Gaungu
 
 system "Genta Bo"
 	pos 185.2 -65.9
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star" "supergiant star"
 	arrival 5000
 	habitable 37100
@@ -11522,7 +11522,7 @@ system "Genta Bo"
 
 system "Gento Ah"
 	pos 351.9 -352.3
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star" "supergiant star"
 	arrival 5000
 	habitable 11850
@@ -11643,7 +11643,7 @@ system Gerenus
 
 system Ghhil
 	pos 922.4 -714
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 3000
 	habitable 3000
@@ -11841,7 +11841,7 @@ system Giribea
 
 system Girtab
 	pos -430 481
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1080
 	habitable 1080
@@ -11907,7 +11907,7 @@ system Girtab
 
 system Gomeisa
 	pos -600 -161
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 980
 	habitable 980
@@ -11937,7 +11937,7 @@ system Gomeisa
 	fleet "Small Deep Merchants" 3000
 	fleet "Large Deep Security" 4000
 	fleet "Large Deep Merchants" 5000
-	fleet "Republic Logistics" 5000
+	fleet "Imperium Logistics" 5000
 	object
 		sprite star/k0
 		distance 59.0783
@@ -11978,7 +11978,7 @@ system Gomeisa
 
 system Gorvi
 	pos -250 -483
-	government Republic
+	government Imperium
 	attributes "north" "notable star" "wolf-rayet"
 	arrival 5000
 	habitable 50000
@@ -12005,7 +12005,7 @@ system Gorvi
 	trade Plastic 455
 	fleet "Small Northern Pirates" 1000
 	fleet "Large Northern Pirates" 1000
-	fleet "Large Republic" 4000
+	fleet "Large Imperium" 4000
 	fleet "Small Northern Merchants" 8000
 	fleet "Derelict Pirate" 10000
 	object
@@ -12038,7 +12038,7 @@ system Gorvi
 
 system Graffias
 	pos -784 517
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 980
 	habitable 980
@@ -12200,7 +12200,7 @@ system H-9187
 
 system Hadar
 	pos -788 283
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 500
 	habitable 450
@@ -12318,7 +12318,7 @@ system Hamal
 
 system Han
 	pos -610 561
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1115
 	habitable 1115
@@ -12378,7 +12378,7 @@ system Han
 
 system Hassaleh
 	pos -291 -287
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 680
 	habitable 680
@@ -12410,7 +12410,7 @@ system Hassaleh
 	fleet "Small Northern Merchants" 9000
 	fleet "Small Northern Pirates" 6000
 	fleet "Large Northern Pirates" 20000
-	fleet "Large Republic" 20000
+	fleet "Large Imperium" 20000
 	fleet "Human Miners" 2000
 	object
 		sprite star/k3
@@ -12469,7 +12469,7 @@ system Hatysa
 	trade Plastic 330
 	fleet "Small Northern Pirates" 600
 	fleet "Large Northern Pirates" 1000
-	fleet "Large Republic" 15000
+	fleet "Large Imperium" 15000
 	fleet "Derelict Pirate" 30000
 	object
 		sprite star/k0
@@ -12503,7 +12503,7 @@ system Hatysa
 
 system "Heia Due"
 	pos -146.177 -481.694
-	government Republic
+	government Imperium
 	arrival 1215
 	habitable 1215
 	belt 1079
@@ -12647,7 +12647,7 @@ system Hesselpost
 
 system Heutesl
 	pos 871.8 -631.53
-	government Republic
+	government Imperium
 	arrival 1310
 	habitable 1310
 	belt 1000
@@ -12700,7 +12700,7 @@ system Heutesl
 
 system "Hevru Hai"
 	pos -189 -310
-	government Republic
+	government Imperium
 	attributes "ringworld"
 	arrival 700
 	departure 1000
@@ -12830,7 +12830,7 @@ system "Hevru Hai"
 
 system "Hi Yahr"
 	pos 82.3672 -641.6
-	government Republic
+	government Imperium
 	arrival 625
 	habitable 625
 	belt 1655
@@ -12886,7 +12886,7 @@ system "Hi Yahr"
 
 system Hintar
 	pos -422 311
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 625
 	habitable 625
@@ -12948,7 +12948,7 @@ system Hintar
 
 system Holeb
 	pos -590 287
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 3430
 	habitable 3430
@@ -13322,7 +13322,7 @@ system Iise
 
 system Ildaria
 	pos -702 317
-	government Republic
+	government Imperium
 	attributes "notable star" "nova" "rim"
 	arrival 500
 	habitable 100
@@ -13376,7 +13376,7 @@ system Ildaria
 
 system Iliniza
 	pos 931.904 -441.026
-	government Republic
+	government Imperium
 	arrival 760
 	habitable 760
 	belt 1624
@@ -13535,7 +13535,7 @@ system Il'le
 
 system "Imo Dep"
 	pos -56.2764 -600.1
-	government Republic
+	government Imperium
 	arrival 1715
 	habitable 1715
 	belt 1416
@@ -13661,7 +13661,7 @@ system Insitor
 
 system "Io Lowe"
 	pos -94.7566 -527.728
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 135
 	belt 1552
@@ -13723,7 +13723,7 @@ system "Io Lowe"
 
 system "Io Mann"
 	pos -192.955 -447.669
-	government Republic 
+	government Imperium 
 	arrival 980
 	habitable 980
 	belt 1132
@@ -13797,7 +13797,7 @@ system "Io Mann"
 
 system Ipsing
 	pos -549 160
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 2585
 	habitable 2585
@@ -14373,7 +14373,7 @@ system "Is Il Z-814"
 
 system Izar
 	pos -784 231
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 1400
 	habitable 1400
@@ -14440,7 +14440,7 @@ system Izar
 
 system "Jentu Centi"
 	pos 390.9 -291.3
-	government Republic
+	government Imperium
 	attributes "giant star" "notable star"
 	arrival 4050
 	habitable 4050
@@ -14493,7 +14493,7 @@ system "Jentu Centi"
 
 system "Jentu Le"
 	pos 243.817 -162.83
-	government "Republic"
+	government "Imperium"
 	arrival 2200
 	habitable 2200
 	belt 1500
@@ -14797,7 +14797,7 @@ system Kanguwa
 
 system "Kappa Centauri"
 	pos -867 480
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1215
 	habitable 1215
@@ -14893,7 +14893,7 @@ system Karhio
 
 system Kashikt
 	pos -73.5695 -219.812
-	government Republic
+	government Imperium
 	
 	arrival 1715
 	habitable 1715
@@ -15005,7 +15005,7 @@ system Kasikfar
 
 system "Kaus Australis"
 	pos -284 395
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 370
@@ -15057,7 +15057,7 @@ system "Kaus Australis"
 
 system "Kaus Borealis"
 	pos -456 350
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 585
 	habitable 585
@@ -15375,7 +15375,7 @@ system "Ki War Ek"
 
 system "Kifrana Terberah"
 	pos 362.817 -200.83
-	government Republic
+	government Imperium
 	attributes "giant star" "notable star"
 	arrival 2300
 	habitable 2300
@@ -15466,7 +15466,7 @@ system Kilema
 
 system Kiluit
 	pos 699.45 -562.23
-	government Republic
+	government Imperium
 	arrival 2430
 	habitable 2430
 	belt 1258
@@ -15590,7 +15590,7 @@ system Kneirc
 
 system Kochab
 	pos -731 279
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 500
 	habitable 370
@@ -15635,7 +15635,7 @@ system Kochab
 
 system "Kor Ak'Mari"
 	pos 43 42
-	government Republic
+	government Imperium
 	attributes "carbon" "korath" "notable star"
 	arrival 3100
 	habitable 3100
@@ -15697,7 +15697,7 @@ system "Kor Ak'Mari"
 
 system "Kor En'lakfar"
 	pos -31 -33
-	government Republic
+	government Imperium
 	
 	arrival 1080
 	habitable 1080
@@ -15759,7 +15759,7 @@ system "Kor En'lakfar"
 
 system "Kor Fel'tar"
 	pos 29 -66
-	government Republic
+	government Imperium
 	
 	arrival 500
 	habitable 450
@@ -15825,7 +15825,7 @@ system "Kor Fel'tar"
 
 system "Kor Men"
 	pos 6 -5
-	government Republic
+	government Imperium
 	
 	arrival 2340
 	habitable 2340
@@ -15888,7 +15888,7 @@ system "Kor Men"
 
 system "Kor Nor'peli"
 	pos 52 160
-	government Republic
+	government Imperium
 	
 	arrival 585
 	habitable 585
@@ -15953,7 +15953,7 @@ system "Kor Nor'peli"
 
 system "Kor Tar'bei"
 	pos 57 106
-	government Republic
+	government Imperium
 	
 	arrival 500
 	habitable 230
@@ -16010,7 +16010,7 @@ system "Kor Tar'bei"
 
 system "Kor Zena'i"
 	pos -2 83
-	government Republic
+	government Imperium
 	
 	arrival 1385
 	habitable 1385
@@ -16063,7 +16063,7 @@ system "Kor Zena'i"
 
 system Kornephoros
 	pos -612 424
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 980
 	habitable 980
@@ -16204,7 +16204,7 @@ system Korsmanath
 
 system Kraz
 	pos -876 204
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 1080
 	habitable 1080
@@ -16296,7 +16296,7 @@ system Kugel
 	trade Metal 335
 	trade Plastic 421
 	fleet "Small Core Merchants" 4000
-	fleet "Small Republic" 6000
+	fleet "Small Imperium" 6000
 	fleet "Small Syndicate" 8000
 	fleet "Large Core Pirates" 4000
 	fleet "Small Core Pirates" 4000
@@ -16343,7 +16343,7 @@ system Kugel
 
 system Kursa
 	pos -366 -105
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 505
 	habitable 505
@@ -16368,8 +16368,8 @@ system Kursa
 	fleet "Paradise Merchants" 3000
 	fleet "Small Northern Pirates" 4000
 	fleet "Large Northern Pirates" 8000
-	fleet "Small Republic" 5000
-	fleet "Large Republic" 8000
+	fleet "Small Imperium" 5000
+	fleet "Large Imperium" 8000
 	object
 		sprite star/k8
 		distance 25.4381
@@ -16477,7 +16477,7 @@ system L-6181
 
 system Lesath
 	pos -516 485
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1715
 	habitable 1715
@@ -16620,7 +16620,7 @@ system Levana
 
 system Limen
 	pos -791.99 -12.2491
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1715
 	habitable 1715
@@ -16784,7 +16784,7 @@ system Lloloi
 
 system Lolami
 	pos -628 -10
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1215
 	habitable 1215
@@ -16809,7 +16809,7 @@ system Lolami
 	trade Metal 439
 	trade Plastic 316
 	fleet "Small Northern Merchants" 2000
-	fleet "Small Republic" 5000
+	fleet "Small Imperium" 5000
 	fleet "Small Northern Pirates" 2000
 	fleet "Large Northern Pirates" 4000
 	fleet "Human Miners" 3000
@@ -16850,7 +16850,7 @@ system Lolami
 
 system "Lom Tahr"
 	pos -94.0437 -446.586
-	government Republic
+	government Imperium
 	arrival 2560
 	habitable 2560
 	belt 1445
@@ -16984,7 +16984,7 @@ system Lucina
 
 system Lurata
 	pos -279 463
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 500
 	habitable 450
@@ -17167,7 +17167,7 @@ system MS-219
 
 system Makferuti
 	pos 288.431 -628.812
-	government Republic
+	government Imperium
 	
 	arrival 525
 	habitable 525
@@ -17306,7 +17306,7 @@ system Markab
 	fleet "Small Syndicate" 600
 	fleet "Large Syndicate" 800
 	fleet "Human Miners" 3000
-	fleet "Republic Logistics" 4000
+	fleet "Imperium Logistics" 4000
 	object
 		sprite star/g5
 		period 10
@@ -17357,7 +17357,7 @@ system Markab
 
 system Markeb
 	pos -602 -305
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 500
 	habitable 450
@@ -17483,7 +17483,7 @@ system Matar
 
 system Mebsuta
 	pos -482 -394
-	government Republic
+	government Imperium
 	attributes "north" "notable star" "supergiant star"
 	arrival 5000
 	habitable 6110
@@ -17511,7 +17511,7 @@ system Mebsuta
 	fleet "Large Northern Merchants" 5000
 	fleet "Small Northern Pirates" 4000
 	fleet "Large Northern Pirates" 8000
-	fleet "Small Republic" 12000
+	fleet "Small Imperium" 12000
 	object
 		sprite star/g-supergiant
 		distance 1.49103
@@ -17620,7 +17620,7 @@ system Meftarkata
 
 system "Mego Faro"
 	pos 412.9 -347.3
-	government Republic
+	government Imperium
 	arrival 1080
 	habitable 1080
 	belt 1500
@@ -17684,7 +17684,7 @@ system "Mego Faro"
 
 system "Mego Inito"
 	pos 394.9 -230.3
-	government Republic
+	government Imperium
 	arrival 2200
 	habitable 2200
 	belt 1500
@@ -17735,7 +17735,7 @@ system "Mego Inito"
 
 system "Mego Seo"
 	pos 354.817 -279.83
-	government Republic
+	government Imperium
 	arrival 2560
 	habitable 2560
 	belt 1500
@@ -17788,7 +17788,7 @@ system "Mego Seo"
 
 system "Mei Yohn"
 	pos -106.757 -581.698
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 425
 	belt 1075
@@ -17849,7 +17849,7 @@ system "Mei Yohn"
 
 system Mekislepti
 	pos 137.431 -335.812
-	government Republic
+	government Imperium
 	
 	arrival 1705
 	habitable 1705
@@ -17984,7 +17984,7 @@ system Men
 
 system Menkalinan
 	pos -400 -61
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 5000
 	habitable 5145
@@ -18014,9 +18014,9 @@ system Menkalinan
 	trade Plastic 472
 	fleet "Small Northern Merchants" 500
 	fleet "Large Northern Merchants" 800
-	fleet "Small Republic" 800
-	fleet "Large Republic" 2000
-	fleet "Republic Logistics" 2000
+	fleet "Small Imperium" 800
+	fleet "Large Imperium" 2000
+	fleet "Imperium Logistics" 2000
 	object
 		sprite star/f5-old
 		distance 50.2574
@@ -18118,7 +18118,7 @@ system Menkar
 
 system Menkent
 	pos -495 218
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 2340
 	habitable 2340
@@ -18148,7 +18148,7 @@ system Menkent
 	trade Plastic 412
 	fleet "Small Southern Merchants" 500
 	fleet "Large Southern Merchants" 1500
-	fleet "Small Republic" 3000
+	fleet "Small Imperium" 3000
 	fleet "Human Miners" 2000
 	object
 		sprite star/f5
@@ -18190,7 +18190,7 @@ system Menkent
 
 system Merak
 	pos -553 60
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 1115
 	habitable 1115
@@ -18222,8 +18222,8 @@ system Merak
 	fleet "Small Northern Merchants" 800
 	fleet "Large Southern Merchants" 2000
 	fleet "Large Northern Merchants" 1500
-	fleet "Small Republic" 2000
-	fleet "Large Republic" 4000
+	fleet "Small Imperium" 2000
+	fleet "Large Imperium" 4000
 	object
 		sprite star/g5
 		distance 42.0926
@@ -18326,7 +18326,7 @@ system Mesuket
 
 system Miaplacidus
 	pos -524 -69
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 500
 	habitable 450
@@ -18354,8 +18354,8 @@ system Miaplacidus
 	fleet "Small Northern Merchants" 600
 	fleet "Large Northern Merchants" 900
 	fleet "Paradise Merchants" 900
-	fleet "Small Republic" 1500
-	fleet "Large Republic" 3000
+	fleet "Small Imperium" 1500
+	fleet "Large Imperium" 3000
 	object
 		sprite star/k3
 		period 10
@@ -18402,7 +18402,7 @@ system Miaplacidus
 
 system Mimosa
 	pos -895 168
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 500
 	habitable 370
@@ -18454,7 +18454,7 @@ system Mimosa
 
 system Minkar
 	pos -823 138
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 1300
 	habitable 1300
@@ -18521,7 +18521,7 @@ system Minkar
 
 system Mintaka
 	pos -304 -462
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 860
 	habitable 860
@@ -18551,7 +18551,7 @@ system Mintaka
 	trade Plastic 370
 	fleet "Small Northern Pirates" 2000
 	fleet "Large Northern Pirates" 2000
-	fleet "Large Republic" 5000
+	fleet "Large Imperium" 5000
 	fleet "Small Northern Merchants" 4000
 	fleet "Human Miners" 2000
 	fleet "Derelict Pirate" 30000
@@ -18714,7 +18714,7 @@ system Mirfak
 
 system Mirzam
 	pos -498 -301
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 1080
 	habitable 1080
@@ -18743,8 +18743,8 @@ system Mirzam
 	trade Plastic 463
 	fleet "Small Northern Merchants" 2000
 	fleet "Large Northern Merchants" 2000
-	fleet "Small Republic" 3000
-	fleet "Large Republic" 4000
+	fleet "Small Imperium" 3000
+	fleet "Large Imperium" 4000
 	fleet "Small Northern Pirates" 5000
 	fleet "Large Northern Pirates" 8000
 	object
@@ -18857,7 +18857,7 @@ system Misam
 
 system Mizar
 	pos -579 184
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1080
 	habitable 1080
@@ -18912,7 +18912,7 @@ system Mizar
 
 system Mnashyu
 	pos 824.044 -309.322
-	government Republic
+	government Imperium
 	arrival 1430
 	habitable 1430
 	belt 1163
@@ -19087,7 +19087,7 @@ system Moktar
 
 system Mora
 	pos -755 23
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 425
@@ -19117,7 +19117,7 @@ system Mora
 	fleet "Large Southern Merchants" 4000
 	fleet "Small Southern Pirates" 2000
 	fleet "Large Southern Pirates" 3000
-	fleet "Small Republic" 20000
+	fleet "Small Imperium" 20000
 	fleet "Human Miners" 2000
 	fleet "Derelict Northern" 30000
 	object
@@ -19178,7 +19178,7 @@ system Msalbit
 
 system Muhlifain
 	pos -702 242
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 450
@@ -19226,7 +19226,7 @@ system Muhlifain
 
 system Muphrid
 	pos -495 152
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 1570
 	habitable 1570
@@ -19252,7 +19252,7 @@ system Muphrid
 	fleet "Small Southern Merchants" 800
 	fleet "Large Southern Merchants" 3500
 	fleet "Small Southern Pirates" 6000
-	fleet "Small Republic" 5000
+	fleet "Small Imperium" 5000
 	fleet "Derelict Northern" 30000
 	object
 		sprite star/g5-old
@@ -19286,7 +19286,7 @@ system Muphrid
 
 system Naos
 	pos -653 -396
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 1310
 	habitable 1310
@@ -19361,7 +19361,7 @@ system Naos
 
 system Naper
 	pos -416 369
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1715
 	habitable 1715
@@ -19509,7 +19509,7 @@ system Nenia
 
 system Nihal
 	pos -262 -121
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 530
 	habitable 530
@@ -19540,8 +19540,8 @@ system Nihal
 	fleet "Paradise Merchants" 1800
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 5000
-	fleet "Small Republic" 4000
-	fleet "Large Republic" 7000
+	fleet "Small Imperium" 4000
+	fleet "Large Imperium" 7000
 	fleet "Human Miners" 2000
 	object
 		sprite star/k8
@@ -19619,7 +19619,7 @@ system Nnatai
 
 system Nnaug
 	pos 718.89 -592.01
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star" 
 	arrival 3650
 	habitable 3650
@@ -19674,7 +19674,7 @@ system Nnaug
 
 system Nocte
 	pos -467 172
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 500
 	habitable 135
@@ -19700,8 +19700,8 @@ system Nocte
 	trade Metal 285
 	trade Plastic 363
 	fleet "Small Northern Merchants" 1500
-	fleet "Small Republic" 3000
-	fleet "Large Republic" 7000
+	fleet "Small Imperium" 3000
+	fleet "Large Imperium" 7000
 	fleet "Small Northern Pirates" 2500
 	fleet "Human Miners" 1600
 	fleet "Derelict Northern" 10000
@@ -20063,7 +20063,7 @@ system Oihaug
 
 system Ookmya
 	pos 633.6 -610.17
-	government Republic
+	government Imperium
 	attributes "bright star" "giant star" "notable star" 
 	arrival 5000
 	habitable 7900
@@ -20119,7 +20119,7 @@ system Ookmya
 
 system Oosuoro
 	pos 839 -592.67
-	government Republic
+	government Imperium
 	arrival 700
 	habitable 700
 	belt 828
@@ -20177,7 +20177,7 @@ system Oosuoro
 
 system Orbona
 	pos -735.99 -97.2491
-	government Republic
+	government Imperium
 	attributes "bright star" "dirt belt" "giant star" "notable star"
 	arrival 5000
 	habitable 11840
@@ -20251,7 +20251,7 @@ system Orbona
 
 system Orvala
 	pos -334 303
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 520
 	habitable 520
@@ -20632,7 +20632,7 @@ system Parca
 
 system "Paru Paru"
 	pos 275.9 -237.3
-	government Republic
+	government Imperium
 	attributes "neutron" "notable star"
 	arrival 500
 	habitable 100
@@ -20756,7 +20756,7 @@ system Patir
 
 system Pbelnep
 	pos 945.6 -505.7
-	government Republic
+	government Imperium
 	arrival 725
 	habitable 725
 	belt 1803
@@ -20812,7 +20812,7 @@ system Pbelnep
 
 system Peacock
 	pos -307 350
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 230
@@ -21233,7 +21233,7 @@ system Persitar
 
 system Phact
 	pos -375 -191
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 1115
 	habitable 1115
@@ -21261,9 +21261,9 @@ system Phact
 	trade Plastic 460
 	fleet "Small Northern Merchants" 2000
 	fleet "Large Northern Merchants" 2000
-	fleet "Small Republic" 6000
-	fleet "Large Republic" 9000
-	fleet "Republic Logistics" 6000
+	fleet "Small Imperium" 6000
+	fleet "Large Imperium" 9000
+	fleet "Imperium Logistics" 6000
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 5000
 	fleet "Human Miners" 5000
@@ -21307,7 +21307,7 @@ system Phact
 
 system Phecda
 	pos -607 88
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 370
@@ -21338,7 +21338,7 @@ system Phecda
 	fleet "Large Northern Merchants" 1000
 	fleet "Small Southern Merchants" 700
 	fleet "Large Southern Merchants" 1000
-	fleet "Small Republic" 5000
+	fleet "Small Imperium" 5000
 	fleet "Human Miners" 2000
 	object
 		sprite star/k8
@@ -21366,7 +21366,7 @@ system Phecda
 
 system Pherkad
 	pos -798 451
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 500
 	habitable 135
@@ -21423,7 +21423,7 @@ system Pherkad
 
 system Phurad
 	pos -494 -153
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 1080
 	habitable 1080
@@ -21451,8 +21451,8 @@ system Phurad
 	trade Plastic 476
 	fleet "Small Northern Merchants" 800
 	fleet "Large Northern Merchants" 1500
-	fleet "Small Republic" 2000
-	fleet "Large Republic" 5000
+	fleet "Small Imperium" 2000
+	fleet "Large Imperium" 5000
 	fleet "Small Northern Pirates" 9000
 	object
 		sprite star/g0
@@ -21484,7 +21484,7 @@ system Phurad
 
 system Piadenli
 	pos 318.817 -338.83
-	government Republic
+	government Imperium
 	attributes "notable star" "supergiant star"
 	arrival 4500
 	habitable 4500
@@ -21675,7 +21675,7 @@ system Polerius
 
 system Pollux
 	pos -465 4
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 1080
 	habitable 1080
@@ -21702,9 +21702,9 @@ system Pollux
 	fleet "Small Northern Merchants" 500
 	fleet "Large Northern Merchants" 800
 	fleet "Paradise Merchants" 600
-	fleet "Small Republic" 1500
-	fleet "Large Republic" 4500
-	fleet "Republic Logistics" 4500
+	fleet "Small Imperium" 1500
+	fleet "Large Imperium" 4500
+	fleet "Imperium Logistics" 4500
 	object
 		sprite star/g0
 		period 10
@@ -21731,7 +21731,7 @@ system Pollux
 
 system Porrima
 	pos -556 123
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 760
 	habitable 760
@@ -21762,7 +21762,7 @@ system Porrima
 	fleet "Large Northern Merchants" 6000
 	fleet "Small Southern Merchants" 1000
 	fleet "Large Southern Merchants" 3000
-	fleet "Small Republic" 8000
+	fleet "Small Imperium" 8000
 	fleet "Small Southern Pirates" 6000
 	object
 		sprite star/g5
@@ -21872,7 +21872,7 @@ system Postverta
 
 system Procyon
 	pos -411 23
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 500
 	habitable 450
@@ -21902,9 +21902,9 @@ system Procyon
 	fleet "Small Northern Merchants" 700
 	fleet "Large Northern Merchants" 1200
 	fleet "Paradise Merchants" 900
-	fleet "Small Republic" 1500
-	fleet "Large Republic" 3000
-	fleet "Republic Logistics" 1500
+	fleet "Small Imperium" 1500
+	fleet "Large Imperium" 3000
+	fleet "Imperium Logistics" 1500
 	object
 		sprite star/k3
 		period 10
@@ -21981,7 +21981,7 @@ system Prosa
 
 system Ptetubo
 	pos 594 -569.3
-	government Republic
+	government Imperium
 	arrival 1250
 	habitable 1250
 	belt 1478
@@ -22518,7 +22518,7 @@ system Queri
 
 system Rajak
 	pos -270 -236
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 500
 	habitable 135
@@ -22587,7 +22587,7 @@ system Rajak
 
 system Rasalhague
 	pos -413 246
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 450
@@ -22649,7 +22649,7 @@ system Rasalhague
 
 system Rastaban
 	pos -463 446
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1080
 	habitable 1080
@@ -22711,7 +22711,7 @@ system Rastaban
 
 system "Rati Cal"
 	pos -116.765 -391.123
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 425
 	belt 1538
@@ -22765,7 +22765,7 @@ system "Rati Cal"
 
 system "Ravu Kon"
 	pos 332.9 -251.3
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 5000
 	habitable 5000
@@ -22832,7 +22832,7 @@ system "Ravu Kon"
 
 system Regor
 	pos -702 -335
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 500
 	habitable 450
@@ -22896,7 +22896,7 @@ system Regor
 
 system Regulus
 	pos -544 25
-	government Republic
+	government Imperium
 	attributes "bright star" "near earth" "notable star"
 	arrival 5000
 	habitable 7000
@@ -22924,7 +22924,7 @@ system Regulus
 	fleet "Small Southern Merchants" 6000
 	fleet "Small Southern Pirates" 2000
 	fleet "Large Southern Pirates" 8000
-	fleet "Small Republic" 10000
+	fleet "Small Imperium" 10000
 	fleet "Human Miners" 3000
 	fleet "Derelict Northern" 10000
 	object
@@ -23050,7 +23050,7 @@ system Relifer
 
 system Rigel
 	pos -324 -363
-	government Republic
+	government Imperium
 	attributes "bright star" "north" "notable star" "supergiant star"
 	arrival 5000
 	habitable 17025
@@ -23080,9 +23080,9 @@ system Rigel
 	trade Plastic 472
 	fleet "Small Northern Merchants" 2000
 	fleet "Large Northern Merchants" 4000
-	fleet "Small Republic" 3500
-	fleet "Large Republic" 7000
-	fleet "Republic Logistics" 7000
+	fleet "Small Imperium" 3500
+	fleet "Large Imperium" 7000
+	fleet "Imperium Logistics" 7000
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 5000
 	fleet "Human Miners" 2000
@@ -23371,7 +23371,7 @@ system Ruchbah
 
 system Rutilicus
 	pos -535 273
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 625
 	habitable 625
@@ -23441,7 +23441,7 @@ system Rutilicus
 
 system Sabik
 	pos -675 379
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 625
 	habitable 625
@@ -23546,7 +23546,7 @@ system Sabriset
 
 system Sadalmelik
 	pos -145 472
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1715
 	habitable 1715
@@ -23602,7 +23602,7 @@ system Sadalmelik
 
 system Sadalsuud
 	pos -134 508
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1450
 	habitable 1450
@@ -23664,7 +23664,7 @@ system Sadalsuud
 
 system Sadr
 	pos -287 543
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star" "south"
 	arrival 3430
 	habitable 3430
@@ -23748,7 +23748,7 @@ system "Sagittarius A*"
 
 system Saiph
 	pos -375 -390
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 500
 	habitable 370
@@ -23775,8 +23775,8 @@ system Saiph
 	fleet "Large Northern Merchants" 2000
 	fleet "Small Northern Pirates" 2000
 	fleet "Large Northern Pirates" 3000
-	fleet "Small Republic" 4000
-	fleet "Large Republic" 7000
+	fleet "Small Imperium" 4000
+	fleet "Large Imperium" 7000
 	object
 		sprite star/k8
 		period 10
@@ -23803,7 +23803,7 @@ system Saiph
 
 system Salipastart
 	pos 250.431 -370.812
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 490
 	belt 1056
@@ -23904,7 +23904,7 @@ system Saquergen
 
 system Sargas
 	pos -542 445
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 980
 	habitable 980
@@ -23956,7 +23956,7 @@ system Sargas
 
 system Sarin
 	pos -670 293
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1080
 	habitable 1080
@@ -24033,7 +24033,7 @@ system Scheat
 	fleet "Large Core Merchants" 600
 	fleet "Small Syndicate" 1000
 	fleet "Large Syndicate" 2000
-	fleet "Republic Logistics" 4700
+	fleet "Imperium Logistics" 4700
 	fleet "Small Core Pirates" 3000
 	fleet "Large Core Pirates" 5000
 	object
@@ -24137,7 +24137,7 @@ system Schedar
 
 system Scija
 	pos 651.5 -586
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star" 
 	arrival 5000
 	habitable 5600
@@ -24318,7 +24318,7 @@ system Segesta
 
 system Seginus
 	pos -557 356
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 135
@@ -24436,7 +24436,7 @@ system Seketra
 
 system Sepetrosk
 	pos 192.431 -243.812
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 490
 	belt 1286
@@ -24550,7 +24550,7 @@ system Sepriaptu
 
 system "Sera Natta"
 	pos 344.9 -418.3
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 3000
 	habitable 3000
@@ -24602,7 +24602,7 @@ system "Sera Natta"
 
 system Sevrelect
 	pos -114.569 -239.812
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 320
 	belt 1763
@@ -24784,7 +24784,7 @@ system Sheratan
 
 system "Shini Bori"
 	pos 258.9 -74.3
-	government Republic
+	government Imperium
 	arrival 2560
 	habitable 2560
 	belt 1500
@@ -24838,7 +24838,7 @@ system "Shini Bori"
 
 system Silikatakfar
 	pos 248.431 -481.812
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 425
 	belt 1641
@@ -24890,7 +24890,7 @@ system Silikatakfar
 
 system Similisti
 	pos 210.431 -313.812
-	government Republic
+	government Imperium
 	arrival 1080
 	habitable 1080
 	belt 1349
@@ -24959,7 +24959,7 @@ system Similisti
 
 system Sirius
 	pos -378 44
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 1850
 	habitable 1850
@@ -24989,9 +24989,9 @@ system Sirius
 	fleet "Small Northern Merchants" 500
 	fleet "Large Northern Merchants" 700
 	fleet "Paradise Merchants" 800
-	fleet "Small Republic" 1000
-	fleet "Large Republic" 2500
-	fleet "Republic Logistics" 2500
+	fleet "Small Imperium" 1000
+	fleet "Large Imperium" 2500
+	fleet "Imperium Logistics" 2500
 	object
 		sprite star/f5
 		distance 8.6963
@@ -25075,7 +25075,7 @@ system Skeruto
 
 system Sobarati
 	pos 277.431 -557.812
-	government Republic
+	government Imperium
 	attributes "bright star"  "notable star"
 	arrival 3355
 	habitable 3355
@@ -25139,7 +25139,7 @@ system Sobarati
 
 system Sol
 	pos -400 100
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 1080
 	habitable 1080
@@ -25169,9 +25169,9 @@ system Sol
 	fleet "Small Northern Merchants" 300
 	fleet "Large Northern Merchants" 500
 	fleet "Paradise Merchants" 800
-	fleet "Small Republic" 600
-	fleet "Large Republic" 900
-	fleet "Republic Logistics" 2000
+	fleet "Small Imperium" 600
+	fleet "Large Imperium" 900
+	fleet "Imperium Logistics" 2000
 	fleet "Small Core Merchants" 1000
 	fleet "Large Core Merchants" 2000
 	object
@@ -25307,7 +25307,7 @@ system Solifar
 
 system Sospi
 	pos -317 -161
-	government Republic
+	government Imperium
 	attributes "north" "notable star" "wolf-rayet"
 	arrival 5000
 	habitable 50000
@@ -25337,8 +25337,8 @@ system Sospi
 	fleet "Large Northern Merchants" 3000
 	fleet "Small Northern Pirates" 1000
 	fleet "Large Northern Pirates" 2000
-	fleet "Small Republic" 5000
-	fleet "Large Republic" 9000
+	fleet "Small Imperium" 5000
+	fleet "Large Imperium" 9000
 	fleet "Human Miners" 5000
 	fleet "Derelict Northern" 10000
 	object
@@ -25375,7 +25375,7 @@ system Sospi
 
 system Spica
 	pos -906 120
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 625
 	habitable 625
@@ -25554,7 +25554,7 @@ system Stercutus
 
 system Suhail
 	pos -774 -338
-	government Republic
+	government Imperium
 	attributes "deep" "giant star" "notable star"
 	arrival 3000
 	habitable 3000
@@ -25617,7 +25617,7 @@ system Suhail
 
 system Sumar
 	pos -236 -273
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 2560
 	habitable 2560
@@ -25639,7 +25639,7 @@ system Sumar
 	trade Plastic 408
 	fleet "Small Northern Pirates" 2000
 	fleet "Large Northern Pirates" 6000
-	fleet "Large Republic" 30000
+	fleet "Large Imperium" 30000
 	object
 		sprite star/f0
 		period 10
@@ -25678,7 +25678,7 @@ system Sumar
 
 system Sumprast
 	pos -101.569 -262.812
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 490
 	belt 1958
@@ -25787,7 +25787,7 @@ system Supra
 
 system Tais
 	pos -346 381
-	government Republic
+	government Imperium
 	attributes "bright star" "dirt belt" "notable star"
 	arrival 3200
 	habitable 3200
@@ -25846,7 +25846,7 @@ system Tais
 
 system Talita
 	pos -519 -26
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 1705
 	habitable 1705
@@ -25877,9 +25877,9 @@ system Talita
 	fleet "Small Northern Merchants" 600
 	fleet "Large Northern Merchants" 900
 	fleet "Paradise Merchants" 800
-	fleet "Small Republic" 1000
-	fleet "Large Republic" 4000
-	fleet "Republic Logistics" 4000
+	fleet "Small Imperium" 1000
+	fleet "Large Imperium" 4000
+	fleet "Imperium Logistics" 4000
 	fleet "Human Miners" 3000
 	object
 		sprite star/g0
@@ -25913,7 +25913,7 @@ system Talita
 
 system "Tania Australis"
 	pos -671 7
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1080
 	habitable 1080
@@ -25942,7 +25942,7 @@ system "Tania Australis"
 	trade Plastic 390
 	fleet "Small Northern Merchants" 1000
 	fleet "Large Northern Merchants" 2000
-	fleet "Small Republic" 3000
+	fleet "Small Imperium" 3000
 	fleet "Small Northern Pirates" 4000
 	fleet "Large Northern Pirates" 9000
 	object
@@ -25987,7 +25987,7 @@ system "Tania Australis"
 
 system Tarazed
 	pos -194 448
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1215
 	habitable 1215
@@ -26051,7 +26051,7 @@ system Tarazed
 
 system Tejat
 	pos -489 -107
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 1215
 	habitable 1215
@@ -26080,8 +26080,8 @@ system Tejat
 	fleet "Small Northern Merchants" 700
 	fleet "Large Northern Merchants" 1500
 	fleet "Paradise Merchants" 1200
-	fleet "Small Republic" 2000
-	fleet "Large Republic" 2000
+	fleet "Small Imperium" 2000
+	fleet "Large Imperium" 2000
 	object
 		sprite star/g0
 		distance 11.7804
@@ -26130,7 +26130,7 @@ system Tejat
 
 system Terminus
 	pos -727.99 -23.2491
-	government Republic
+	government Imperium
 	attributes "dirt belt" "wormhole"
 	arrival 950
 	habitable 950
@@ -26233,7 +26233,7 @@ system "Terra Incognita"
 
 system "Thshybo Le"
 	pos 217.2 -94.9
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 3200
 	habitable 3200
@@ -26316,7 +26316,7 @@ system Thuban
 
 system Tortor
 	pos -255 -424
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 500
 	habitable 450
@@ -26344,7 +26344,7 @@ system Tortor
 	trade Plastic 431
 	fleet "Small Northern Pirates" 1000
 	fleet "Large Northern Pirates" 1000
-	fleet "Large Republic" 6000
+	fleet "Large Imperium" 6000
 	fleet "Small Northern Merchants" 6000
 	fleet "Derelict Pirate" 10000
 	object
@@ -26421,7 +26421,7 @@ system Tscera
 
 system Turais
 	pos -691 134
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 135
@@ -26575,7 +26575,7 @@ system Uelawan
 
 system Uhebe
 	pos 647.4 -496.3
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star" 
 	arrival 5000
 	habitable 10000
@@ -26625,7 +26625,7 @@ system Uhebe
 
 system "Ula Mon"
 	pos -64.1218 -559.868
-	government Republic
+	government Imperium
 	arrival 640
 	habitable 640
 	belt 1574
@@ -26701,7 +26701,7 @@ system "Ula Mon"
 
 system "Ultima Thule"
 	pos -336 -211
-	government Republic
+	government Imperium
 	attributes "north" "wormhole"
 	arrival 2560
 	habitable 2560
@@ -26756,7 +26756,7 @@ system "Ultima Thule"
 
 system Umbral
 	pos -164 406
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 1300
 	habitable 1300
@@ -26890,7 +26890,7 @@ system Unagi
 
 system Unukalhai
 	pos -710 405
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 625
 	habitable 625
@@ -26952,7 +26952,7 @@ system Unukalhai
 
 system "Urba Pest"
 	pos 391.9 -394.3
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 5000
 	habitable 5000
@@ -27052,7 +27052,7 @@ system Uttna
 
 system "Uwa Fahn"
 	pos 35.1585 -491.67
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 320
 	belt 1913
@@ -27339,7 +27339,7 @@ system Vaticanus
 
 system Vega
 	pos -402 182
-	government Republic
+	government Imperium
 	attributes "near earth"
 	arrival 1450
 	habitable 1450
@@ -27369,8 +27369,8 @@ system Vega
 	trade Plastic 315
 	fleet "Small Northern Merchants" 800
 	fleet "Large Northern Merchants" 3000
-	fleet "Small Republic" 1600
-	fleet "Large Republic" 5000
+	fleet "Small Imperium" 1600
+	fleet "Large Imperium" 5000
 	fleet "Human Miners" 5000
 	object
 		sprite star/g0
@@ -27495,7 +27495,7 @@ system Vilacira
 
 system Vindemiatrix
 	pos -635 257
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1080
 	habitable 1080
@@ -27549,7 +27549,7 @@ system Vindemiatrix
 
 system Volax
 	pos -256 -179
-	government Republic
+	government Imperium
 	attributes "north"
 	arrival 1715
 	habitable 1715
@@ -27573,8 +27573,8 @@ system Volax
 	fleet "Large Northern Merchants" 3000
 	fleet "Small Northern Pirates" 1000
 	fleet "Large Northern Pirates" 3000
-	fleet "Small Republic" 5000
-	fleet "Large Republic" 9000
+	fleet "Small Imperium" 5000
+	fleet "Large Imperium" 9000
 	fleet "Derelict Northern" 30000
 	object
 		sprite star/f5
@@ -27715,7 +27715,7 @@ system W-3197
 
 system "Wah Ki"
 	pos 14.9925 -612.792
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 425
 	belt 1585
@@ -27779,7 +27779,7 @@ system "Wah Ki"
 
 system "Wah Oh"
 	pos -205.344 -381.381
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 3650
 	habitable 3650
@@ -27859,7 +27859,7 @@ system "Wah Oh"
 
 system "Wah Yoot"
 	pos 40.9382 -685.994
-	government Republic
+	government Imperium
 	arrival 1080
 	habitable 1080
 	belt 1222
@@ -27925,7 +27925,7 @@ system "Wah Yoot"
 
 system Waypoint
 	pos -184 -515
-	government Republic
+	government Imperium
 	attributes "wormhole"
 	arrival 500
 	habitable 135
@@ -27980,7 +27980,7 @@ system Waypoint
 
 system Wazn
 	pos -385 -131
-	government Republic
+	government Imperium
 	attributes "paradise"
 	arrival 530
 	habitable 530
@@ -28008,9 +28008,9 @@ system Wazn
 	fleet "Small Northern Merchants" 700
 	fleet "Large Northern Merchants" 1500
 	fleet "Paradise Merchants" 1800
-	fleet "Small Republic" 2500
-	fleet "Large Republic" 5000
-	fleet "Republic Logistics" 5000
+	fleet "Small Imperium" 2500
+	fleet "Large Imperium" 5000
+	fleet "Imperium Logistics" 5000
 	object
 		sprite star/k8
 		distance 28.2114
@@ -28047,7 +28047,7 @@ system Wazn
 
 system Wei
 	pos -598 369
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 500
 	habitable 450
@@ -28107,7 +28107,7 @@ system Wei
 
 system Wezen
 	pos -664 -433
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 2710
 	habitable 2710
@@ -28362,7 +28362,7 @@ system Wreoul
 
 system "Xutluno Fali"
 	pos 399.817 -177.83
-	government Republic
+	government Imperium
 	attributes "ringworld"
 	arrival 700
 	habitable 700
@@ -28413,7 +28413,7 @@ system "Xutluno Fali"
 
 system "Xutluno Rees"
 	pos 435.817 -281.83
-	government Republic
+	government Imperium
 	attributes "bright star" "notable star"
 	arrival 5000
 	habitable 9075
@@ -28475,7 +28475,7 @@ system "Xutluno Rees"
 
 system "Ya Hai"
 	pos -24.9453 -505.571
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 425
 	belt 1120
@@ -28545,7 +28545,7 @@ system "Ya Hai"
 
 system "Yed Prior"
 	pos -810 374
-	government Republic
+	government Imperium
 	attributes "south"
 	arrival 500
 	habitable 450
@@ -28852,7 +28852,7 @@ system Zaurak
 
 system Zeinar
 	pos 984.87 -452.389
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 425
 	belt 1960
@@ -28902,7 +28902,7 @@ system Zeinar
 
 system "Zeta Aquilae"
 	pos -369 276
-	government Republic
+	government Imperium
 	attributes "dirt belt"
 	arrival 1450
 	habitable 1450
@@ -28978,7 +28978,7 @@ system "Zeta Aquilae"
 
 system "Zeta Centauri"
 	pos -835 257
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 500
 	habitable 450
@@ -29072,7 +29072,7 @@ system Zolpulti
 
 system Zosma
 	pos -640 -123
-	government Republic
+	government Imperium
 	attributes "deep"
 	arrival 500
 	habitable 450
@@ -29105,8 +29105,8 @@ system Zosma
 	fleet "Small Deep Merchants" 4000
 	fleet "Large Deep Security" 2000
 	fleet "Large Deep Merchants" 8000
-	fleet "Small Republic" 4000
-	fleet "Republic Logistics" 4000
+	fleet "Small Imperium" 4000
+	fleet "Imperium Logistics" 4000
 	fleet "Small Northern Pirates" 5000
 	fleet "Large Northern Pirates" 9000
 	object
@@ -29141,7 +29141,7 @@ system Zosma
 
 system "Zuba Zub"
 	pos -48.2661 -647.926
-	government Republic
+	government Imperium
 	arrival 500
 	habitable 425
 	belt 1911
@@ -29207,7 +29207,7 @@ system "Zuba Zub"
 
 system Zubenelgenubi
 	pos -710 353
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 995
 	habitable 995
@@ -29351,7 +29351,7 @@ system Zubenelhakrabi
 
 system Zubeneschamali
 	pos -759 338
-	government Republic
+	government Imperium
 	attributes "rim"
 	arrival 1250
 	habitable 1250
