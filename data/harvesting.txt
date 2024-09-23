@@ -294,12 +294,12 @@ outfit "Yottrite"
 	"mass" 3.14
 	"installable" -1
 	"minable" 1
-	description "An extraordinarily rare crystalline formation, forged over tens of thousands of years in the molecular clouds around supernova remnants. Although less advanced species can potentially harvest it, very few civilizations other than the Quarg have developed the technology needed to incorporate yottrite in an alloy."
+	description "An extraordinarily rare crystalline formation, forged over tens of thousands of years in the molecular clouds around supernova Foundations. Although less advanced species can potentially harvest it, very few civilizations other than the Quarg have developed the technology needed to incorporate yottrite in an alloy."
 
 
 
 # The following are not traditional asteroids, and are not present at the start of the game.
-# They are added to specific systems in the Ember Waste during the events of the 'Remnant: Cognizance' missions.
+# They are added to specific systems in the Ember Waste during the events of the 'Foundation: Cognizance' missions.
 
 minable "plant"
 	sprite "asteroid/plant/plant"

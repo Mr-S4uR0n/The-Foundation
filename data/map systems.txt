@@ -3599,7 +3599,7 @@ system Arcturus
 
 system Arculus
 	pos 308.87 393.242
-	government Remnant
+	government Foundation
 	attributes "ember waste"
 	arrival 625
 	ramscoop
@@ -3624,10 +3624,10 @@ system Arculus
 	trade Medical 510
 	trade Metal 417
 	trade Plastic 498
-	fleet "Large Remnant" 3000
-	fleet "Small Remnant" 2200
-	fleet "Remnant Transport" 2200
-	fleet "Remnant Home Guard" 2000
+	fleet "Large Foundation" 3000
+	fleet "Small Foundation" 2200
+	fleet "Foundation Transport" 2200
+	fleet "Foundation Home Guard" 2000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 25000
 	object
@@ -4885,8 +4885,8 @@ system Caeculus
 	trade Medical 508
 	trade Metal 272
 	trade Plastic 289
-	fleet "Small Remnant" 30000
-	fleet "Large Remnant" 30000
+	fleet "Small Foundation" 30000
+	fleet "Large Foundation" 30000
 	fleet Embershades 12000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
@@ -5652,7 +5652,7 @@ system Chornifath
 
 system Cinxia
 	pos 265.87 415.242
-	government Remnant
+	government Foundation
 	attributes "ember waste"
 	arrival 500
 	ramscoop
@@ -5676,10 +5676,10 @@ system Cinxia
 	trade Medical 516
 	trade Metal 354
 	trade Plastic 417
-	fleet "Large Remnant" 2400
-	fleet "Small Remnant" 1800
-	fleet "Remnant Transport" 1800
-	fleet "Remnant Home Guard" 1600
+	fleet "Large Foundation" 2400
+	fleet "Small Foundation" 1800
+	fleet "Foundation Transport" 1800
+	fleet "Foundation Home Guard" 1600
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 25000
 	object
@@ -8324,9 +8324,9 @@ system Edusa
 	trade Medical 521
 	trade Metal 336
 	trade Plastic 475
-	fleet "Large Remnant" 3200
-	fleet "Small Remnant" 2400
-	fleet "Remnant Transport" 2400
+	fleet "Large Foundation" 3200
+	fleet "Small Foundation" 2400
+	fleet "Foundation Transport" 2400
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -8348,7 +8348,7 @@ system Edusa
 		sprite planet/dust4
 		distance 1130.29
 		period 238.845
-	object "Remnant Wormhole"
+	object "Foundation Wormhole"
 		sprite planet/wormhole-red
 		distance 3613.73
 		period 1365.41
@@ -10193,9 +10193,9 @@ system Farinus
 	trade Medical 558
 	trade Metal 342
 	trade Plastic 354
-	fleet "Large Remnant" 14000
-	fleet "Small Remnant" 10000
-	fleet "Remnant Transport" 10000
+	fleet "Large Foundation" 14000
+	fleet "Small Foundation" 10000
+	fleet "Foundation Transport" 10000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -20438,7 +20438,7 @@ system Paeli
 
 system Pantica
 	pos 303.87 445.242
-	government Remnant
+	government Foundation
 	attributes "ember waste"
 	arrival 500
 	ramscoop
@@ -20467,10 +20467,10 @@ system Pantica
 	trade Medical 545
 	trade Metal 454
 	trade Plastic 469
-	fleet "Large Remnant" 2000
-	fleet "Small Remnant" 1400
-	fleet "Remnant Transport" 1400
-	fleet "Remnant Home Guard" 1300
+	fleet "Large Foundation" 2000
+	fleet "Small Foundation" 1400
+	fleet "Foundation Transport" 1400
+	fleet "Foundation Home Guard" 1300
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 25000
 	object
@@ -20965,7 +20965,7 @@ system Peragenor
 			sprite planet/ice0-b
 			distance 496
 			period 44.1507
-	object "Remnant Wormhole"
+	object "Foundation Wormhole"
 		sprite planet/wormhole-red
 		distance 2300
 		period 949.346

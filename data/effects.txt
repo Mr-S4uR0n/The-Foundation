@@ -133,8 +133,8 @@ effect "big leak"
 	"random spin" 2
 	"random velocity" 12
 
-effect "remnant leak"
-	sprite "effect/remnant leak"
+effect "Foundation leak"
+	sprite "effect/Foundation leak"
 		"no repeat"
 		"frame rate" 30
 	"lifetime" 7
@@ -142,8 +142,8 @@ effect "remnant leak"
 	"random spin" 2
 	"random velocity" 12
 
-effect "remnant leak sparkle"
-	sprite "effect/remnant leak sparkle"
+effect "Foundation leak sparkle"
+	sprite "effect/Foundation leak sparkle"
 		"no repeat"
 		"frame rate" 30
 	"lifetime" 7
@@ -405,10 +405,10 @@ effect "hai launch"
 	"random velocity" 3
 	sound "hai launch"
 	
-effect "remnant external"
-	sound "remnant launch external"
+effect "Foundation external"
+	sound "Foundation launch external"
 	
-effect "remnant internal"
+effect "Foundation internal"
 	sprite "effect/smoke"
 		"no repeat"
 		"random start frame"
@@ -417,7 +417,7 @@ effect "remnant internal"
 	"random angle" 15
 	"random spin" 360
 	"random velocity" 3
-	sound "remnant launch"
+	sound "Foundation launch"
 
 effect "korath external"
 	sound "korath launch external"

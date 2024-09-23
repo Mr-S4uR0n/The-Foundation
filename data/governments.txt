@@ -312,9 +312,9 @@ government "Pirate (Rival)"
 	"hostile disabled hail" "hostile disabled pirate"
 	raid "pirate raid"
 
-government "Remnant"
+government "Foundation"
 	swizzle 0
-	color "governments: Remnant"
+	color "governments: Foundation"
 	"crew defense" 2.2
 	
 	"player reputation" 1
@@ -323,7 +323,7 @@ government "Remnant"
 		"Indigenous Lifeform" 0.05
 		"Korath" -.05
 		"Alpha" -.05
-		"Remnant (Research)" 1
+		"Foundation (Research)" 1
 	"penalty for"
 		assist -0.25
 		disable 1
@@ -332,20 +332,20 @@ government "Remnant"
 		destroy 10
 		scan 0.1
 	"foreign penalties for"
-		"Remnant (Research)"
+		"Foundation (Research)"
 	"custom penalties for"
 		"Indigenous Lifeform"
 			scan 0
 	"provoked on scan"
-	"friendly hail" "remnant uncontacted"
+	"friendly hail" "Foundation uncontacted"
 	"friendly disabled hail" "friendly disabled"
-	"hostile hail" "remnant uncontacted hostile"
+	"hostile hail" "Foundation uncontacted hostile"
 	"hostile disabled hail" "hostile disabled"
 
-government "Remnant (Research)"
-	"display name" "Remnant"
+government "Foundation (Research)"
+	"display name" "Foundation"
 	swizzle 0
-	color "governments: Remnant"
+	color "governments: Foundation"
 	"crew defense" 2.2
 	
 	"player reputation" 1
@@ -354,7 +354,7 @@ government "Remnant (Research)"
 		"Indigenous Lifeform" 0.05
 		"Korath" -.05
 		"Alpha" -.05
-		"Remnant" 1
+		"Foundation" 1
 	"penalty for"
 		assist -0.25
 		disable 1
@@ -362,10 +362,10 @@ government "Remnant (Research)"
 		capture 10
 		destroy 10
 	"foreign penalties for"
-		"Remnant"
-	"friendly hail" "remnant uncontacted"
+		"Foundation"
+	"friendly hail" "Foundation uncontacted"
 	"friendly disabled hail" "friendly disabled"
-	"hostile hail" "remnant uncontacted hostile"
+	"hostile hail" "Foundation uncontacted hostile"
 	"hostile disabled hail" "hostile disabled"
 
 color "governments: Imperium" .91 .42 .09
@@ -546,5 +546,5 @@ government "Ember Waste"
 		"Drak" 1
 		"Drak (Hostile)" .01
 		"Korath" -.01
-		"Remnant" .01
+		"Foundation" .01
 

@@ -71,7 +71,7 @@ planet Ahr
 planet Aksaray
 	attributes moon uninhabited
 	landscape land/mountain26
-	description `At first glance, Aksaray appears to be a fairly generic moon formed from eons of dust and debris compressed into a tight ball by constant gravitational pressure. What is not commonplace is the presence of almost perfectly pyramidal piles of regolith scattered across the world. Querying an orbiting Remnant satellite suggests that these are believed to have been remote mining sites for mineral processing.`
+	description `At first glance, Aksaray appears to be a fairly generic moon formed from eons of dust and debris compressed into a tight ball by constant gravitational pressure. What is not commonplace is the presence of almost perfectly pyramidal piles of regolith scattered across the world. Querying an orbiting Foundation satellite suggests that these are believed to have been remote mining sites for mineral processing.`
 	description `	A brief consultation of your navigational computer's economic database, however, indicates that all the minerals present in this variant of regolith are very common across the galaxy and have an extremely low value.`
 	government Uninhabited
 	security 0
@@ -280,18 +280,18 @@ planet Avalon
 	security 0
 
 planet Aventine
-	attributes remnant "remnant primary"
+	attributes Foundation "Foundation primary"
 	landscape land/mountain17-harro
-	description `This is not a particularly warm world, but it is the best that the first Remnant refugees were able to find when they explored the Ember Waste. It is here that they built their capital, in a deep valley that is almost always shrouded in clouds. In meadows farther up the mountain slopes, a few particularly hardy food crops are grown, but for the most part the Remnant rely on artificial greenhouses or cultured yeast for protein supplements. Remnant cuisine is unlikely to ever become a draw for tourists, even if their isolation here is broken.`
-	spaceport `The oldest buildings in the Remnant capital city harken back to classic human architecture, with stone facades and columns reminiscent of ancient Rome. But as you walk outward toward the more recent additions, the buildings become less and less recognizably human, with curved organic shapes and hundreds of overhanging walkways and balconies. It is as if the layers left behind by centuries of habitation are a frozen record of the slow transition of Remnant culture into something bizarre and almost alien.`
-	shipyard Remnant
-	outfitter Remnant
+	description `This is not a particularly warm world, but it is the best that the first Foundation refugees were able to find when they explored the Ember Waste. It is here that they built their capital, in a deep valley that is almost always shrouded in clouds. In meadows farther up the mountain slopes, a few particularly hardy food crops are grown, but for the most part the Foundation rely on artificial greenhouses or cultured yeast for protein supplements. Foundation cuisine is unlikely to ever become a draw for tourists, even if their isolation here is broken.`
+	spaceport `The oldest buildings in the Foundation capital city harken back to classic human architecture, with stone facades and columns reminiscent of ancient Rome. But as you walk outward toward the more recent additions, the buildings become less and less recognizably human, with curved organic shapes and hundreds of overhanging walkways and balconies. It is as if the layers left behind by centuries of habitation are a frozen record of the slow transition of Foundation culture into something bizarre and almost alien.`
+	shipyard Foundation
+	outfitter Foundation
 	bribe 0
 	tribute 4000
 		threshold 8500
-		fleet "Remnant Decoy Defense" 3
-		fleet "Light Remnant Defense" 10
-		fleet "Heavy Remnant Defense" 30
+		fleet "Foundation Decoy Defense" 3
+		fleet "Light Foundation Defense" 10
+		fleet "Heavy Foundation Defense" 30
 
 planet Babiali
 	attributes frozen "ice giant" uninhabited
@@ -556,18 +556,18 @@ planet Byruca
 	description `	Your ship's sensors detect high levels of ultraviolet radiation, and cursory scans of the atmosphere reveal a distinct lack of ozone or any other gas that would prevent the nearby star's UV light from reaching the surface.`
 
 planet Caelian
-	attributes remnant "remnant primary"
+	attributes Foundation "Foundation primary"
 	landscape land/sky7
-	description `When the first members of the Remnant discovered this region of space, Caelian was the only habitable world they found with enough insolation to be able to operate solar-powered factories and bioreactors. The first settlements were scattered widely, with the houses hidden underground in order to be less visible from space, because they feared that the Alphas would overrun human space and eventually find their way into the Waste. Centuries later, when they learned that the Alpha Wars had ended, they began to expand the factories and settlements more openly.`
-	spaceport `Nearly all members of the Remnant are dark-skinned, either from exposure to high levels of ultraviolet radiation or because that is what their first ancestors who came here looked like. So, they walk around this spaceport village without much fear of the scorching desert sun, bringing supplies back and forth to the houses and to the flat clay pavement of the landing zone. Aside from some camels that the settlers brought with them, there are very few animals here.`
-	shipyard Remnant
-	outfitter Remnant
+	description `When the first members of the Foundation discovered this region of space, Caelian was the only habitable world they found with enough insolation to be able to operate solar-powered factories and bioreactors. The first settlements were scattered widely, with the houses hidden underground in order to be less visible from space, because they feared that the Alphas would overrun human space and eventually find their way into the Waste. Centuries later, when they learned that the Alpha Wars had ended, they began to expand the factories and settlements more openly.`
+	spaceport `Nearly all members of the Foundation are dark-skinned, either from exposure to high levels of ultraviolet radiation or because that is what their first ancestors who came here looked like. So, they walk around this spaceport village without much fear of the scorching desert sun, bringing supplies back and forth to the houses and to the flat clay pavement of the landing zone. Aside from some camels that the settlers brought with them, there are very few animals here.`
+	shipyard Foundation
+	outfitter Foundation
 	bribe 0
 	tribute 3000
 		threshold 8000
-		fleet "Remnant Decoy Defense" 3
-		fleet "Light Remnant Defense" 8
-		fleet "Heavy Remnant Defense" 25
+		fleet "Foundation Decoy Defense" 3
+		fleet "Light Foundation Defense" 8
+		fleet "Heavy Foundation Defense" 25
 
 planet Calda
 	attributes paradise rich tourism
@@ -1376,7 +1376,7 @@ planet "Esperaktu Station"
 planet Esquiline
 	attributes "gas giant" "requires: gaslining" uninhabited
 	landscape land/nasa13
-	description `Esquiline's wispy skies billow with raging winds and continuous storms. The Remnant have discovered that its upper atmosphere contains a useful source of certain chemicals. Although few spacecraft can penetrate its depths, specially-designed aero scoop drones can be seen regularly dipping into the atmosphere for shipments to Aventine.`
+	description `Esquiline's wispy skies billow with raging winds and continuous storms. The Foundation have discovered that its upper atmosphere contains a useful source of certain chemicals. Although few spacecraft can penetrate its depths, specially-designed aero scoop drones can be seen regularly dipping into the atmosphere for shipments to Aventine.`
 	government Uninhabited
 	security 0
 
@@ -1553,7 +1553,7 @@ planet Firelode
 planet "Firka Tesk"
 	attributes korath
 	landscape land/lava0
-	description `This appears to have once been an inhabited world, and the remnants of a few cities still remain. But the planet's crust has been cracked like an eggshell, releasing rivers of lava and leaving behind unnaturally steep mountains and fault lines. The wind whistles and howls through the rifts and fissures as if the planet itself is screaming in pain. A thick haze of sulfur dioxide and ash hangs over everything.`
+	description `This appears to have once been an inhabited world, and the Foundations of a few cities still remain. But the planet's crust has been cracked like an eggshell, releasing rivers of lava and leaving behind unnaturally steep mountains and fault lines. The wind whistles and howls through the rifts and fissures as if the planet itself is screaming in pain. A thick haze of sulfur dioxide and ash hangs over everything.`
 
 planet Flood
 	attributes farming rim tourism
@@ -2374,7 +2374,7 @@ planet Janiculum
 	attributes uninhabited
 	landscape land/canyon11
 	description `As you pass low over Janiculum, you see that its surface is little more than a gravitational graveyard for asteroids and debris. Impact craters litter the surface, with some looking fairly recent.`
-	description `	Janiculum is the subject of regular surveillance by the Remnant, who track impacts and investigate them whenever they occur. While it is not clear what the Remnant are recovering from these investigations, they continue to do them with meticulous regularity.`
+	description `	Janiculum is the subject of regular surveillance by the Foundation, who track impacts and investigate them whenever they occur. While it is not clear what the Foundation are recovering from these investigations, they continue to do them with meticulous regularity.`
 	government Uninhabited
 	security 0
 
@@ -2520,7 +2520,7 @@ planet "Kraken Station"
 planet Kumkapi
 	attributes moon uninhabited
 	landscape land/mars0
-	description `While this moon's minerals aren't particularly rare or exotic, its closeness to Viminal has made it the subject of many mining projects over the centuries - efforts to find traces of the valuable Key Stones which permit travel through this region of space. None of them were successful, and most Remnant scientists believe that Kumkapi formed somewhere else and was captured by Vimnal's gravitational pull at some time during its formation.`
+	description `While this moon's minerals aren't particularly rare or exotic, its closeness to Viminal has made it the subject of many mining projects over the centuries - efforts to find traces of the valuable Key Stones which permit travel through this region of space. None of them were successful, and most Foundation scientists believe that Kumkapi formed somewhere else and was captured by Vimnal's gravitational pull at some time during its formation.`
 	description `	When the absence of Key Stones became clear, most scientific and mining interests faded away, and today the surface is scattered with abandoned outposts whose somber tunnels are thousand-kilometer labyrinths.`
 	government Uninhabited
 	security 0
@@ -3412,7 +3412,7 @@ planet Palarei
 planet Palatine
 	attributes "gas giant" "requires: gaslining" uninhabited
 	landscape land/nasa12
-	description `The whipping winds of Palatine are a prime example of how the inner mechanics of gas giants are poorly understood; when it was initially discovered by the Remnant, its winds spun around the globe at speeds far in excess of what astrophysical models predicted, as if they had recently been subject to a massive acceleration.`
+	description `The whipping winds of Palatine are a prime example of how the inner mechanics of gas giants are poorly understood; when it was initially discovered by the Foundation, its winds spun around the globe at speeds far in excess of what astrophysical models predicted, as if they had recently been subject to a massive acceleration.`
 	description `	Over the subsequent centuries the winds have been imperceptibly slowing toward normally predicted velocities, but at their current rate it will be many millennia before they reach them.`
 	government Uninhabited
 	security 0
@@ -3491,7 +3491,7 @@ planet Pincian
 	attributes moon uninhabited
 	landscape land/mars3
 	description `Pincian is a small rocky moon, tiny enough to avoid most asteroids attracted by the nearby gas giant of Palatine. Nevertheless, a huge crater, old enough to have collected some dust and regolith, dominates its surface. Whatever crashed here, it must be tens of thousands of years since the impact.`
-	description `	There are some small-scale mining operations all around Pincian, but everything around the crater has been left untouched except for a Remnant research station nestled into one of its edges.`
+	description `	There are some small-scale mining operations all around Pincian, but everything around the crater has been left untouched except for a Foundation research station nestled into one of its edges.`
 	government Uninhabited
 	security 0
 
@@ -3691,12 +3691,12 @@ planet Relic
 		threshold 3000
 		fleet "Small Imperium" 25
 
-planet "Remnant Wormhole"
+planet "Foundation Wormhole"
 	attributes "requires: quantum keystone"
 	spaceport ``
-	wormhole "Remnant Wormhole"
+	wormhole "Foundation Wormhole"
 
-wormhole "Remnant Wormhole"
+wormhole "Foundation Wormhole"
 	mappable
 	link Peragenor Edusa
 	link Edusa Peragenor
@@ -4016,7 +4016,7 @@ planet Servian
 	attributes "gas giant" "requires: gaslining" uninhabited
 	landscape land/nasa28
 	description `The clouds of Servian swirl in deceptive calmness around the outer limits of the planet, where automated scoop probes don't have any trouble gathering gasses and various exotic elements. Underneath the peaceful exterior, the norm is extreme turbulence and violent storms with lightning thousands of times more powerful than anything observed on nearby planets.`
-	description `	While the Remnant initially sought to discover what was below the storms, they finally ceased their attempts after a lengthy exploration program involving twenty successive probes and three early puffins. Every ship was destroyed before reaching the depths of the planet, but it nonetheless proved a valuable testing ground for their early ship hulls and helped to refine the technology.`
+	description `	While the Foundation initially sought to discover what was below the storms, they finally ceased their attempts after a lengthy exploration program involving twenty successive probes and three early puffins. Every ship was destroyed before reaching the depths of the planet, but it nonetheless proved a valuable testing ground for their early ship hulls and helped to refine the technology.`
 	government Uninhabited
 	security 0
 
@@ -4329,7 +4329,7 @@ planet Splashdown
 		fleet "Large Imperium" 3
 
 planet "Ssil Vida"
-	attributes emitter "remnant station" sheragi uninhabited
+	attributes emitter "Foundation station" sheragi uninhabited
 	landscape land/station11
 	description `The silence of this station rings in your ears, and as you explore you are increasingly surprised that it even has an atmosphere. It is obviously ancient, and patches of ambiguous green and purple material resembling fungus grow through the walls. Whoever built this station designed it for beings much larger than you. Either that, or they liked spacious environments. Even the shortest doorway you pass through is easily double your height. They are always wider than they are tall.`
 	port
@@ -4627,7 +4627,7 @@ planet Topkapi
 	attributes moon uninhabited
 	landscape land/mars1
 	description `Much like Aksaray, Topkapi is an old moon formed from the smashed remains of countless eons worth of stellar debris. The surface appears to be regularly bombarded by asteroids, although some of the craters show signs of being the site of rather large explosions. Your sensors pick up traces of materials most commonly found in Korath ships.`
-	description `	Topkapi does not appear to have any routine activity, although satellites in orbit indicate that the Remnant monitor it for activity and send ships to investigate asteroid or other impacts on a regular basis.`
+	description `	Topkapi does not appear to have any routine activity, although satellites in orbit indicate that the Foundation monitor it for activity and send ships to investigate asteroid or other impacts on a regular basis.`
 	government Uninhabited
 	security 0
 
@@ -5000,7 +5000,7 @@ planet "Varu Tev'kei"
 planet Vatican
 	attributes lava uninhabited
 	landscape land/lava10
-	description `Vatican's propensity for constant renewal of the surface has resulted in a flourishing astrogeological academic program. While it has frequently been dismissed as a low priority for Remnant efforts, it has nonetheless received continued support from the defense prefects. Why they would be concerned with the geological formations of an uninhabited planet is unknown, but the research continues.`
+	description `Vatican's propensity for constant renewal of the surface has resulted in a flourishing astrogeological academic program. While it has frequently been dismissed as a low priority for Foundation efforts, it has nonetheless received continued support from the defense prefects. Why they would be concerned with the geological formations of an uninhabited planet is unknown, but the research continues.`
 	government Uninhabited
 	security 0
 
@@ -5031,18 +5031,18 @@ planet Vigales
 	government Uninhabited
 
 planet Viminal
-	attributes frozen remnant "remnant primary"
+	attributes frozen Foundation "Foundation primary"
 	landscape land/snow3
-	description `This cold and dreary world would certainly not be attractive to any modern settlers, but to those who were fleeing the chaos of the Alpha Wars it had the undeniable advantage of being isolated and undiscovered. Today the main reason for the continuing Remnant presence here is that this is the only world they have found where the Key Stones that enable ships to travel through certain wormholes in the Ember Waste can be found.`
-	spaceport `The spaceport is an enormous dome, built of the same resilient and semi-organic material as the hulls of Remnant ships. An opening at one end of the dome allows ships to fly in and out. Inside, the air is still cold, but at least you are sheltered from the violent winds that sweep across the rest of the planet's surface. Some of the locals, accustomed to the cold, walk about in their shirtsleeves as if this were a balmy summer day.`
-	shipyard Remnant
-	outfitter Remnant
+	description `This cold and dreary world would certainly not be attractive to any modern settlers, but to those who were fleeing the chaos of the Alpha Wars it had the undeniable advantage of being isolated and undiscovered. Today the main reason for the continuing Foundation presence here is that this is the only world they have found where the Key Stones that enable ships to travel through certain wormholes in the Ember Waste can be found.`
+	spaceport `The spaceport is an enormous dome, built of the same resilient and semi-organic material as the hulls of Foundation ships. An opening at one end of the dome allows ships to fly in and out. Inside, the air is still cold, but at least you are sheltered from the violent winds that sweep across the rest of the planet's surface. Some of the locals, accustomed to the cold, walk about in their shirtsleeves as if this were a balmy summer day.`
+	shipyard Foundation
+	outfitter Foundation
 	bribe 0
 	tribute 3000
 		threshold 8000
-		fleet "Remnant Decoy Defense" 3
-		fleet "Light Remnant Defense" 8
-		fleet "Heavy Remnant Defense" 25
+		fleet "Foundation Decoy Defense" 3
+		fleet "Light Foundation Defense" 8
+		fleet "Heavy Foundation Defense" 25
 
 planet Vinci
 	attributes factory paradise research
@@ -5226,7 +5226,7 @@ planet Xerolophos
 	attributes "gas giant" "requires: gaslining" uninhabited
 	landscape land/nasa29
 	description `Although formerly classified as a "Hot Jupiter," Xerolophos does not present all the characteristics of one: it is very far from the system star - so distant that it isn't even tidally locked to it. Its temperature, instead, is unusually high even for a Hot Jupiter, with the core internally heating up the atmosphere much more than expected.`
-	description `	While it's possible that Xerolophos might have migrated here long ago, the Remnant haven't been able to explain the extreme temperatures of the planet even after years of studies and dispatching dozens of probes.`
+	description `	While it's possible that Xerolophos might have migrated here long ago, the Foundation haven't been able to explain the extreme temperatures of the planet even after years of studies and dispatching dozens of probes.`
 	government Uninhabited
 	security 0
 
