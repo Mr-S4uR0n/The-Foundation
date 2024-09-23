@@ -3817,9 +3817,6 @@ system Asikafarnut
 	trade Medical 846
 	trade Metal 290
 	trade Plastic 276
-	fleet "Large Kor Mereti" 3600
-	fleet "Small Kor Sestor" 600
-	fleet "Large Kor Sestor" 3200
 	object
 		sprite star/m0
 		period 10
@@ -5430,8 +5427,6 @@ system Celeborim
 	trade Medical 814
 	trade Metal 271
 	trade Plastic 298
-	fleet "Small Kor Sestor" 1200
-	fleet "Large Kor Sestor" 6400
 	object
 		sprite star/m0
 		period 10
@@ -5550,9 +5545,6 @@ system Chimitarp
 	trade Medical 650
 	trade Metal 365
 	trade Plastic 432
-	fleet "Small Kor Mereti" 1000
-	fleet "Large Kor Mereti" 3600
-	fleet "Kor Mereti Miners" 2000
 	object
 		sprite star/k0
 		distance 51.5501
@@ -9076,9 +9068,6 @@ system Eneremprukt
 	trade Medical 828
 	trade Metal 294
 	trade Plastic 295
-	fleet "Large Kor Mereti" 2000
-	fleet "Small Kor Sestor" 1600
-	fleet "Large Kor Sestor" 2400
 	object
 		sprite star/k0
 		period 10
@@ -9688,10 +9677,6 @@ system Eshkoshtar
 	trade Medical 704
 	trade Metal 258
 	trade Plastic 481
-	fleet "Small Kor Mereti" 800
-	fleet "Large Kor Mereti" 1600
-	fleet "Large Kor Sestor" 3600
-	fleet "Kor Mereti Miners" 3000
 	object
 		sprite star/k0
 		distance 41.2173
@@ -10296,10 +10281,6 @@ system Faronektu
 	trade Medical 770
 	trade Metal 260
 	trade Plastic 298
-	fleet "Small Kor Mereti" 1200
-	fleet "Large Kor Mereti" 2000
-	fleet "Large Kor Sestor" 3000
-	fleet "Kor Mereti Miners" 2000
 	object
 		sprite star/g0
 		period 10
@@ -10650,7 +10631,6 @@ system Feroteri
 system Ferukistek
 	pos 307.431 -515.812
 	government Imperium
-	
 	arrival 500
 	habitable 490
 	belt 1520
@@ -10675,9 +10655,6 @@ system Ferukistek
 	trade Medical 832
 	trade Metal 328
 	trade Plastic 296
-	fleet "Large Kor Mereti" 2400
-	fleet "Small Kor Sestor" 4000
-	fleet "Large Kor Sestor" 6000
 	object
 		sprite star/k0
 		period 10
@@ -15636,7 +15613,7 @@ system Kochab
 system "Kor Ak'Mari"
 	pos 43 42
 	government Imperium
-	attributes "carbon" "korath" "notable star"
+	attributes "carbon" "notable star"
 	arrival 3100
 	habitable 3100
 	belt 1606
@@ -17190,8 +17167,6 @@ system Makferuti
 	trade Medical 842
 	trade Metal 270
 	trade Plastic 267
-	fleet "Small Kor Sestor" 1200
-	fleet "Large Kor Sestor" 5000
 	object
 		sprite star/k0
 		distance 5.86217
@@ -17878,10 +17853,6 @@ system Mekislepti
 	trade Medical 741
 	trade Metal 330
 	trade Plastic 452
-	fleet "Small Kor Mereti" 1000
-	fleet "Large Kor Mereti" 3000
-	fleet "Large Kor Sestor" 8000
-	fleet "Kor Mereti Miners" 2000
 	object
 		sprite star/g0
 		distance 36.5391
@@ -18276,8 +18247,6 @@ system Mesuket
 	trade Medical 798
 	trade Metal 272
 	trade Plastic 366
-	fleet "Large Kor Mereti" 600
-	fleet "Large Kor Sestor" 600
 	object
 		sprite star/k5-old
 		period 10
@@ -23828,10 +23797,6 @@ system Salipastart
 	trade Medical 769
 	trade Metal 274
 	trade Plastic 317
-	fleet "Small Kor Mereti" 800
-	fleet "Large Kor Mereti" 1600
-	fleet "Large Kor Sestor" 3200
-	fleet "Kor Mereti Miners" 3000
 	object
 		sprite star/k0
 		period 10
@@ -24460,9 +24425,6 @@ system Sepetrosk
 	trade Medical 589
 	trade Metal 348
 	trade Plastic 473
-	fleet "Small Kor Mereti" 1200
-	fleet "Large Kor Mereti" 4800
-	fleet "Kor Mereti Miners" 2000
 	object
 		sprite star/k0
 		period 10
@@ -24860,9 +24822,6 @@ system Silikatakfar
 	trade Medical 870
 	trade Metal 318
 	trade Plastic 293
-	fleet "Large Kor Mereti" 1600
-	fleet "Small Kor Sestor" 1600
-	fleet "Large Kor Sestor" 2400
 	object
 		sprite star/k5
 		period 10
@@ -24920,10 +24879,6 @@ system Similisti
 	trade Medical 693
 	trade Metal 272
 	trade Plastic 405
-	fleet "Large Kor Mereti" 1600
-	fleet "Small Kor Mereti" 600
-	fleet "Large Kor Sestor" 5400
-	fleet "Kor Mereti Miners" 1600
 	object
 		sprite star/g0
 		period 10
@@ -25092,8 +25047,6 @@ system Sobarati
 	trade Medical 846
 	trade Metal 309
 	trade Plastic 267
-	fleet "Small Kor Sestor" 800
-	fleet "Large Kor Sestor" 4000
 	object
 		sprite star/a8
 		distance 13.9218
