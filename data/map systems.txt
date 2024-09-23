@@ -5680,7 +5680,6 @@ system Cinxia
 	fleet "Small Remnant" 1800
 	fleet "Remnant Transport" 1800
 	fleet "Remnant Home Guard" 1600
-	fleet "Korath Ember Waste Raid" 30000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 25000
 	object
@@ -5851,8 +5850,6 @@ system Coluber
 	trade Medical 798
 	trade Metal 475
 	trade Plastic 362
-	fleet "Korath Ember Waste Raid" 10000
-	fleet "Korath Rescue" 30000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -8095,8 +8092,6 @@ system Durax
 	fleet "Small Core Pirates" 600
 	fleet "Large Core Pirates" 900
 	fleet "Large Syndicate" 2500
-	fleet "Korath Raid" 7000
-	fleet "Korath Miners" 17000
 	fleet "Derelict Pirate" 30000
 	object
 		sprite star/g0-old
@@ -8332,8 +8327,6 @@ system Edusa
 	fleet "Large Remnant" 3200
 	fleet "Small Remnant" 2400
 	fleet "Remnant Transport" 2400
-	fleet "Korath Ember Waste Raid" 40000
-	fleet "Korath Rescue" 90000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -10203,8 +10196,6 @@ system Farinus
 	fleet "Large Remnant" 14000
 	fleet "Small Remnant" 10000
 	fleet "Remnant Transport" 10000
-	fleet "Korath Ember Waste Raid" 40000
-	fleet "Korath Rescue" 60000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -10321,7 +10312,7 @@ system Faronektu
 system Fasitopfar
 	pos 92.4305 -105.812
 	government Uninhabited
-	attributes "archon" "korath" "notable star" "nova"
+	attributes "archon" "notable star" "nova"
 	arrival 500
 	habitable 100
 	belt 1670
@@ -10548,7 +10539,7 @@ system Fereti
 system Feroteri
 	pos 149.431 -205.812
 	government Uninhabited
-	attributes "bright star" "korath" "notable star"
+	attributes "bright star" "notable star"
 	arrival 4075
 	habitable 4075
 	belt 1419
@@ -14938,7 +14929,7 @@ system Kashikt
 system Kasikfar
 	pos 10.4305 -127.812
 	government Uninhabited
-	attributes "archon" "korath" "notable star" "nova"
+	attributes "archon" "notable star" "nova"
 	arrival 500
 	habitable 100
 	belt 1539
@@ -15633,10 +15624,6 @@ system "Kor Ak'Mari"
 	trade Medical 726
 	trade Metal 217
 	trade Plastic 524
-	fleet "Korath Raid" 3600
-	fleet "Korath Miners" 7500
-	fleet "Korath Large Raid" 3600
-	fleet "Korath Defense" 3600
 	object
 		sprite star/carbon
 		period 100
@@ -16549,8 +16536,6 @@ system Levana
 	trade Medical 736
 	trade Metal 407
 	trade Plastic 222
-	fleet "Korath Ember Waste Raid" 10000
-	fleet "Korath Rescue" 30000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -16923,8 +16908,6 @@ system Lucina
 	trade Medical 863
 	trade Metal 524
 	trade Plastic 410
-	fleet "Korath Ember Waste Raid" 20000
-	fleet "Korath Rescue" 60000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -18773,11 +18756,8 @@ system Misam
 	trade Plastic 368
 	fleet "Small Core Pirates" 750
 	fleet "Large Core Pirates" 2000
-	fleet "Korath Raid" 5000
-	fleet "Korath Large Raid" 11000
 	fleet "Human Miners" 10000
 	fleet "Large Syndicate" 20000
-	fleet "Korath Miners" 15000
 	object
 		sprite star/f5-old
 		distance 50
@@ -20491,7 +20471,6 @@ system Pantica
 	fleet "Small Remnant" 1400
 	fleet "Remnant Transport" 1400
 	fleet "Remnant Home Guard" 1300
-	fleet "Korath Ember Waste Raid" 40000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 25000
 	object
@@ -20549,8 +20528,6 @@ system Parca
 	trade Medical 872
 	trade Metal 531
 	trade Plastic 445
-	fleet "Korath Ember Waste Raid" 10000
-	fleet "Korath Rescue" 30000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
 	object
@@ -20996,7 +20973,7 @@ system Peragenor
 system Peresedersi
 	pos 81.4305 -154.812
 	government Uninhabited
-	attributes "archon" "korath" "notable star" "nova"
+	attributes "archon" "notable star" "nova"
 	arrival 500
 	habitable 100
 	belt 1065
@@ -21544,7 +21521,6 @@ system Polaris
 	fleet "Small Syndicate" 1000
 	fleet "Large Syndicate" 2000
 	fleet "Small Core Pirates" 1500
-	fleet "Korath Large Raid" 50000
 	object
 		sprite star/f5
 		period 10
